@@ -1,0 +1,3064 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Material+Icons:400');
+
+
+.bp1-a1024 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 2654px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(248, 252, 255, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-a1024 .bp1-rectangle1700 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : -16px;
+  height              : 862px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-blockhackglobalplanety221 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1107px;
+  height              : 142px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 573px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-rectangle1692 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : -41px;
+  top                 : 2162px;
+  height              : 4097px;
+  width               : 1548px;
+  position            : absolute;
+  margin              : 0;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-blockhackglobalspaceview1613 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -11px;
+  height              : 1048px;
+  width               : calc(100.00% + 272px);
+  position            : absolute;
+  margin              : 0;
+  left                : -136px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-ellipse395 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : 408px;
+  width               : 964px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 482px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-bhgheading2linescolour6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : 198px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 405px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-bhgheading2linescolour6 .bp1-heading2lines0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 198px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-blockhackglobalspacerocks0337 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 326px;
+  height              : 253px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 623px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-ahackingeventmergingblockchaintechnologywithentrepreneurship8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 434px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 863px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 430px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-frame2519 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : -69px;
+  top                 : -65px;
+  height              : 264px;
+  width               : 511px;
+  position            : absolute;
+  margin              : 0;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-companywhowantstotapin10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1294px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 446px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-blockhackglobalspacecraft2011 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : -183px;
+  top                 : 546px;
+  height              : 368px;
+  width               : 481px;
+  position            : absolute;
+  margin              : 0;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-presentedby13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 120px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(67, 67, 69, 0.62);
+  text-align          : center;
+  line-height         : 30.4px;
+}
+.bp1-a1024 .bp1-logobcbhorizontallightbgbw14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : 58px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 28px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsradarisalocationdatasdkadithatisperfectforharnessingthepower15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2138px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 561px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 279px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsradarisalocationdatasdkadithatisperfectforharnessingthepower16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1394px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 561px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 279px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-frame3217 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 826px;
+  height              : 320px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 488px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3217 .bp1-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-frame3217 .bp1-global2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 73px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.0px;
+}
+.bp1-a1024 .bp1-frame3318 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 826px;
+  height              : 320px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 145px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3318 .bp1-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-frame3318 .bp1-benefit22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 92px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.0px;
+}
+.bp1-a1024 .bp1-frame3419 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 826px;
+  height              : 320px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 198px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3419 .bp1-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-a1024 .bp1-frame3419 .bp1-winbig2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 77px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 4.0px;
+}
+.bp1-a1024 .bp1-bhglogolightbgcolour120 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 52px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 24px;
+  width               : 530px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-a1024 .bp1-frame121 .bp1-about0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-frame121 .bp1-prizes1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-frame121 .bp1-schedule2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 178px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-frame121 .bp1-people3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 291px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-frame121 .bp1-faq4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 387px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-frame121 .bp1-sponsors5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 463px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive22 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  right               : 48px;
+  top                 : 12px;
+  height              : 48px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive22 .bp1-subscribeforupdates0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 26px);
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-blockhackglobal202024 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1750px;
+  height              : 308px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 193px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-staytuned25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1989px;
+  height              : 67px;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 46px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-blockhackglobalrocketfuel2226 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : -16px;
+  height              : 397px;
+  width               : 330px;
+  position            : absolute;
+  margin              : 0;
+  left                : -21px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-logobcbhorizontallightbgbw27 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 67px;
+  height              : 58px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 46px);
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-bitcoinbaycorp2020allrightsreserved28 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 51px;
+  bottom              : 24px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 26.6px;
+}
+.bp1-a1024 .bp1-frame3529 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 241px;
+  height              : 24px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 92px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-simpleiconsnotion0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimdiscord1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 .bp1-vector0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58.24%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 26.40%;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 .bp1-vector1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49.15%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 48.57%;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 .bp1-vector2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8.33%;
+  height              : 83.33%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.07%;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimtwitter3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimtwitter3 .bp1-vector01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14.58%;
+  height              : 70.83%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.33%;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uiminstagram4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-ellipse4530 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : -757px;
+  top                 : 1063px;
+  height              : 1310px;
+  width               : 1310px;
+  position            : absolute;
+  margin              : 0;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-ellipse4631 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1175px;
+  height              : 1310px;
+  width               : 1310px;
+  position            : absolute;
+  margin              : 0;
+  left                : -777px;
+  transform           : rotate(0deg);
+}
+.bp1-a1024 .bp1-buttonprimaryactive32 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  top                 : 518px;
+  height              : 48px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 287px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-buttonprimaryactive32 .bp1-subscribeforupdates01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 28px);
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive33 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 518px;
+  height              : 48px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 16px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive33 .bp1-aboutbitcoinbay0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 78px);
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive33 .bp1-launch1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 223px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Material Icons", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 152, 241, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.6px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive34 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1556px;
+  height              : 48px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 143px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive34 .bp1-learnaboutsponsoring0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 26px);
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-buttonprimaryactive35 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  bottom              : 305px;
+  height              : 48px;
+  width               : 271px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 135px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-a1024 .bp1-buttonprimaryactive35 .bp1-subscribeforupdates02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 22px);
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 686px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 458px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span1 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  letter-spacing      : -0.96px;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span2 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span3 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  letter-spacing      : -0.96px;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span4 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span5 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  letter-spacing      : -0.96px;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span6 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span7 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  letter-spacing      : -0.96px;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span8 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span9 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  letter-spacing      : -0.48px;
+  line-height         : 48.0px;
+}
+.bp1-a1024 .bp1-areyouahackercreatorlookingforyournextchallenge36 .bp1-span10 {
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  line-height         : 48.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp2-a720 {
+  width               : 100%;
+  min-width           : 720px;
+  height              : 100vh;
+  min-height          : 2054px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(248, 252, 255, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-a720 .bp2-blockhackglobalspaceview1630 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 446px;
+  width               : calc(100.00% + 406px);
+  position            : absolute;
+  margin              : 0;
+  left                : -206px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-bhglogolightbgcolour11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 36px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-bhglogolightbgcolour11 .bp2-vector11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5.60%;
+  height              : 22.22%;
+  width               : 11.59%;
+  position            : absolute;
+  margin              : 0;
+  left                : 18.26%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-bhglogolightbgcolour11 .bp2-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 34px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-ellipse392 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 204px;
+  width               : 407px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 203px);
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-bhgheading2linesblack3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 72px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-bhgheading2linesblack3 .bp2-heading2lines01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-ahackingeventmergingblockchaintechnologywithentrepreneurship4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 241px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 152px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-mbuttonprimaryactive5 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  top                 : 315px;
+  height              : 40px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 113px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-mbuttonprimaryactive5 .bp2-subscribeforupdates03 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp2-a720 .bp2-buttonsecondaryactive6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 375px;
+  height              : 40px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 112px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-buttonsecondaryactive6 .bp2-aboutbitcoinbay01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 68px);
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp2-a720 .bp2-buttonsecondaryactive6 .bp2-launch11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 184px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Material Icons", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 152, 241, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp2-a720 .bp2-presentedby8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 95px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(67, 67, 69, 0.62);
+  text-align          : center;
+  line-height         : 26.6px;
+}
+.bp2-a720 .bp2-logobcbhorizontallightbgbw9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 42px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 29px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-logobcbhorizontallightbgbw9 .bp2-vector12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 52.27%;
+  position            : absolute;
+  margin              : 0;
+  left                : -0.61%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-logobcbhorizontallightbgbw9 .bp2-group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 22px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-areyouahackercreatorlookingforyournextchallenge10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 459px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 22.23px;
+}
+.bp2-a720 .bp2-rectangle16811 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 379px;
+  width               : 166.60%;
+  position            : absolute;
+  margin              : 0;
+  left                : -33.14%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-companywhowantstotapin12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1154px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 22.23px;
+}
+.bp2-a720 .bp2-frame3413 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 553px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame3413 .bp2-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-frame3413 .bp2-benefit12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp2-a720 .bp2-frame3514 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 943px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame3514 .bp2-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-frame3514 .bp2-benefit121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp2-a720 .bp2-frame3615 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 748px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame3615 .bp2-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-frame3615 .bp2-benefit122 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp2-a720 .bp2-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsifyouvebeen16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1218px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsifyouvebeen17 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 365px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-a720 .bp2-blockhackglobal202019 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 461px;
+  height              : 191px;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 119px);
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-staytuned20 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 463px;
+  height              : 42px;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 28px);
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-mbuttonprimaryactive21 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  bottom              : 297px;
+  height              : 40px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 113px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-mbuttonprimaryactive21 .bp2-subscribeforupdates04 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp2-a720 .bp2-frame1922 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 245px;
+  height              : 24px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 92px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame1922 .bp2-simpleiconsnotion01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimdiscord11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimlinkedin21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimlinkedin21 .bp2-vector02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58.24%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 26.40%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimlinkedin21 .bp2-vector13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49.15%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 48.57%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimlinkedin21 .bp2-vector21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8.33%;
+  height              : 83.33%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.07%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimtwitter31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame1922 .bp2-uimtwitter31 .bp2-vector03 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14.58%;
+  height              : 70.83%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.33%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uiminstagram41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-frame1922 .bp2-uiminstagram41 .bp2-vector04 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27.08%;
+  height              : 45.83%;
+  width               : 45.83%;
+  position            : absolute;
+  margin              : 0;
+  left                : 27.08%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-frame1922 .bp2-uiminstagram41 .bp2-vector14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8.33%;
+  height              : 83.33%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.34%;
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-blockhackglobalrocketfuel2223 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 198px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 212px);
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-logobcbhorizontallightbgbw24 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 115px;
+  height              : 30px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 23px);
+  transform           : rotate(0deg);
+}
+.bp2-a720 .bp2-bitcoinbaycorp2020allrightsreserved25 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 18px;
+  bottom              : 19px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 176px;
+  position            : absolute;
+  margin              : 0;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : right;
+  line-height         : 26.6px;
+}
+.bp2-a720 .bp2-mbuttonsecondaryactive26 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1305px;
+  height              : 40px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 127px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-a720 .bp2-mbuttonsecondaryactive26 .bp2-learnaboutsponsoring01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 47px);
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 155, 246, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp3-a3201 {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 2054px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(248, 252, 255, 1.0);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-a3201 .bp3-blockhackglobalspaceview16301 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 446px;
+  width               : calc(100.00% + 406px);
+  position            : absolute;
+  margin              : 0;
+  left                : -206px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-bhglogolightbgcolour111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 36px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-bhglogolightbgcolour111 .bp3-vector15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5.60%;
+  height              : 22.22%;
+  width               : 11.59%;
+  position            : absolute;
+  margin              : 0;
+  left                : 18.26%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-bhglogolightbgcolour111 .bp3-group32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 34px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-ellipse3921 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 204px;
+  width               : 407px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 203px);
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-bhgheading2linesblack31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 72px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-bhgheading2linesblack31 .bp3-heading2lines02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 72px;
+  width               : 295px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-ahackingeventmergingblockchaintechnologywithentrepreneurship41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 241px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 152px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-mbuttonprimaryactive51 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  top                 : 315px;
+  height              : 40px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 113px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-mbuttonprimaryactive51 .bp3-subscribeforupdates05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-a3201 .bp3-buttonsecondaryactive61 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 375px;
+  height              : 40px;
+  width               : 224px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 112px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-buttonsecondaryactive61 .bp3-aboutbitcoinbay02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 68px);
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-a3201 .bp3-buttonsecondaryactive61 .bp3-launch12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 184px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Material Icons", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 152, 241, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp3-a3201 .bp3-presentedby81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 95px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(67, 67, 69, 0.62);
+  text-align          : center;
+  line-height         : 26.6px;
+}
+.bp3-a3201 .bp3-logobcbhorizontallightbgbw91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 42px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 29px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-logobcbhorizontallightbgbw91 .bp3-vector16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 52.27%;
+  position            : absolute;
+  margin              : 0;
+  left                : -0.61%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-logobcbhorizontallightbgbw91 .bp3-group33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 22px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-areyouahackercreatorlookingforyournextchallenge101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 459px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 22.23px;
+}
+.bp3-a3201 .bp3-rectangle168111 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 379px;
+  width               : 166.56%;
+  position            : absolute;
+  margin              : 0;
+  left                : -33.13%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-companywhowantstotapin121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1154px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : center;
+  line-height         : 22.23px;
+}
+.bp3-a3201 .bp3-frame34131 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 553px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame34131 .bp3-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-frame34131 .bp3-benefit123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp3-a3201 .bp3-frame35141 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 943px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame35141 .bp3-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-frame35141 .bp3-benefit124 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp3-a3201 .bp3-frame36151 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 748px;
+  height              : 163px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  border-radius       : 12px;
+  overflow            : hidden;
+  box-shadow          : 0px 3px 40px rgba(0,159,255,0.15);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame36151 .bp3-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbells18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 237px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 118px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-frame36151 .bp3-benefit125 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 50px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 57, 124, 1.0);
+  text-align          : left;
+  letter-spacing      : 2.25px;
+}
+.bp3-a3201 .bp3-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsifyouvebeen161 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1218px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-ifyouvebeentooneofourmembereventsthenameradarshouldringafewbellsifyouvebeen171 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 365px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 136px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-a3201 .bp3-blockhackglobal2020191 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 461px;
+  height              : 191px;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 119px);
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-staytuned201 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 463px;
+  height              : 42px;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 28px);
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-mbuttonprimaryactive211 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  bottom              : 297px;
+  height              : 40px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 113px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-mbuttonprimaryactive211 .bp3-subscribeforupdates06 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 33px);
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-a3201 .bp3-frame19221 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 245px;
+  height              : 24px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 92px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame19221 .bp3-simpleiconsnotion02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimdiscord12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimlinkedin22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimlinkedin22 .bp3-vector05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58.24%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 26.40%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimlinkedin22 .bp3-vector17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49.15%;
+  height              : 2.08%;
+  width               : 2.08%;
+  position            : absolute;
+  margin              : 0;
+  left                : 48.57%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimlinkedin22 .bp3-vector22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8.33%;
+  height              : 83.33%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.07%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimtwitter32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uimtwitter32 .bp3-vector06 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14.58%;
+  height              : 70.83%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.33%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uiminstagram42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 160px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uiminstagram42 .bp3-vector07 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 27.08%;
+  height              : 45.83%;
+  width               : 45.83%;
+  position            : absolute;
+  margin              : 0;
+  left                : 27.08%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-frame19221 .bp3-uiminstagram42 .bp3-vector18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8.33%;
+  height              : 83.33%;
+  width               : 83.33%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.34%;
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-blockhackglobalrocketfuel22231 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 0px;
+  height              : 198px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 212px);
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-logobcbhorizontallightbgbw241 {
+  background-color    : rgba(255,255,255,0.0);
+  bottom              : 115px;
+  height              : 30px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 23px);
+  transform           : rotate(0deg);
+}
+.bp3-a3201 .bp3-bitcoinbaycorp2020allrightsreserved251 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 18px;
+  bottom              : 19px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 176px;
+  position            : absolute;
+  margin              : 0;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : right;
+  line-height         : 26.6px;
+}
+.bp3-a3201 .bp3-mbuttonsecondaryactive261 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1305px;
+  height              : 40px;
+  width               : 255px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 127px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-a3201 .bp3-mbuttonsecondaryactive261 .bp3-learnaboutsponsoring02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 47px);
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 155, 246, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+@media screen and (max-width: 719px) {
+  .bp3-a3201 {
+    display             : block;
+  }
+  .bp2-a720 {
+    display             : none;
+  }
+  .bp1-a1024 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 720px) and (max-width: 1023px) {
+  .bp3-a3201 {
+    display             : none;
+  }
+  .bp2-a720 {
+    display             : block;
+  }
+  .bp1-a1024 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .bp3-a3201 {
+    display             : none;
+  }
+  .bp2-a720 {
+    display             : none;
+  }
+  .bp1-a1024 {
+    display             : block;
+  }
+}
