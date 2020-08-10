@@ -580,6 +580,13 @@ div {
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive22 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive22:hover {
+  transform           : translate(0, -5px);
 }
 .bp1-a1024 .bp1-buttonsecondaryactive22 .bp1-subscribeforupdates0 {
   background-color    : rgba(255,255,255,0.0);
@@ -687,6 +694,13 @@ div {
   margin              : 0;
   left                : 0px;
   transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-simpleiconsnotion0 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-simpleiconsnotion0:hover {
+  filter              : grayscale(100%);
 }
 .bp1-a1024 .bp1-frame3529 .bp1-uimdiscord1 {
   background-color    : rgba(255,255,255,0.0);
@@ -697,6 +711,13 @@ div {
   margin              : 0;
   left                : 40px;
   transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimdiscord1 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimdiscord1:hover {
+  filter              : grayscale(100%);
 }
 .bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 {
   background-color    : rgba(255,255,255,0.0);
@@ -709,6 +730,13 @@ div {
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2:hover {
+  filter              : grayscale(100%);
 }
 .bp1-a1024 .bp1-frame3529 .bp1-uimlinkedin2 .bp1-vector0 {
   background-color    : rgba(255,255,255,0.0);
@@ -751,6 +779,13 @@ div {
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimtwitter3 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uimtwitter3:hover {
+  filter              : grayscale(100%);
 }
 .bp1-a1024 .bp1-frame3529 .bp1-uimtwitter3 .bp1-vector01 {
   background-color    : rgba(255,255,255,0.0);
@@ -771,6 +806,13 @@ div {
   margin              : 0;
   left                : 160px;
   transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uiminstagram4 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-frame3529 .bp1-uiminstagram4:hover {
+  filter              : grayscale(100%);
 }
 .bp1-a1024 .bp1-ellipse4530 {
   background-color    : rgba(255,255,255,0.0);
@@ -804,6 +846,13 @@ div {
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-buttonprimaryactive32 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-buttonprimaryactive32:hover {
+  transform           : translate(0, -5px);
 }
 .bp1-a1024 .bp1-buttonprimaryactive32 .bp1-subscribeforupdates01 {
   background-color    : rgba(255,255,255,0.0);
@@ -840,6 +889,13 @@ div {
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive33 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive33:hover {
+  transform           : translate(0, -5px);
 }
 .bp1-a1024 .bp1-buttonsecondaryactive33 .bp1-aboutbitcoinbay0 {
   background-color    : rgba(255,255,255,0.0);
@@ -899,6 +955,13 @@ div {
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.17);
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive34 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-buttonsecondaryactive34:hover {
+  transform           : translate(0, -5px);
 }
 .bp1-a1024 .bp1-buttonsecondaryactive34 .bp1-learnaboutsponsoring0 {
   background-color    : rgba(255,255,255,0.0);
@@ -935,6 +998,13 @@ div {
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
   transform           : rotate(0deg);
   opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-a1024 .bp1-buttonprimaryactive35 {
+  pointer-events      : auto;
+}
+.bp1-a1024 .bp1-buttonprimaryactive35:hover {
+  transform           : translate(0, -5px);
 }
 .bp1-a1024 .bp1-buttonprimaryactive35 .bp1-subscribeforupdates02 {
   background-color    : rgba(255,255,255,0.0);
