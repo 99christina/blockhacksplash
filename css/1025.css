@@ -1391,7 +1391,7 @@ div {
   width               : 346px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% + 78px);
+  left                : calc(50.00% + 118px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
@@ -1424,7 +1424,7 @@ div {
   width               : 346px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 431px);
+  left                : calc(50.00% - 471px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
@@ -2517,13 +2517,13 @@ div {
 }
 .bp2-a1026 .bp2-bitcoinbaycorp2020allrightsreserved24 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 18px;
-  bottom              : 19px;
+  bottom              : 27px;
   height              : auto;
   box-sizing          : border-box;
   width               : 176px;
   position            : absolute;
   margin              : 0;
+  left                : calc(50.00% - 87px);
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(255, 255, 255, 0.0);
@@ -2532,10 +2532,10 @@ div {
   font-family         : "Poppins", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : right;
-  line-height         : 26.6px;
+  font-size           : 12.0px;
+  color               : rgba(94, 152, 221, 1.0);
+  text-align          : center;
+  line-height         : 22.8px;
 }
 .bp2-a1026 .bp2-mbuttonsecondaryactive25 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -2597,12 +2597,12 @@ div {
 }
 .bp2-a1026 .bp2-frame3727 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 20px;
   bottom              : 110px;
   height              : 117px;
   width               : 79px;
   position            : absolute;
   margin              : 0;
+  left                : calc(50.00% - 38px);
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -2630,7 +2630,7 @@ div {
 }
 .bp2-a1026 .bp2-frame3727 .bp2-apply11 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 0px;
+  right               : 19px;
   bottom              : 45px;
   height              : auto;
   box-sizing          : border-box;
@@ -3156,12 +3156,13 @@ div {
 .bp2-a1026 .bp2-mobilenav41 {
   background-color    : rgba(248, 252, 255, 1.0);
   top                 : 0px;
-  height              : 2.01%;
+  height              : 56px;
   width               : 100%;
-  position            : absolute;
+  position            : fixed;
   margin              : 0;
   left                : 0px;
   overflow            : hidden;
+  box-shadow          : 0px 2px 8px rgba(0,160,255,0.15);
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -4091,13 +4092,13 @@ div {
 }
 .bp3-a1027 .bp3-bitcoinbaycorp2020allrightsreserved241 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 18px;
-  bottom              : 19px;
+  bottom              : 22px;
   height              : auto;
   box-sizing          : border-box;
   width               : 176px;
   position            : absolute;
   margin              : 0;
+  left                : calc(50.00% - 87px);
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(255, 255, 255, 0.0);
@@ -4106,10 +4107,10 @@ div {
   font-family         : "Poppins", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : right;
-  line-height         : 26.6px;
+  font-size           : 12.0px;
+  color               : rgba(94, 152, 221, 1.0);
+  text-align          : center;
+  line-height         : 22.8px;
 }
 .bp3-a1027 .bp3-mbuttonsecondaryactive251 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -4171,12 +4172,12 @@ div {
 }
 .bp3-a1027 .bp3-frame37271 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 20px;
   bottom              : 110px;
   height              : 117px;
   width               : 79px;
   position            : absolute;
   margin              : 0;
+  left                : calc(50.00% - 38px);
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
@@ -4204,7 +4205,7 @@ div {
 }
 .bp3-a1027 .bp3-frame37271 .bp3-apply12 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 0px;
+  right               : 19px;
   bottom              : 45px;
   height              : auto;
   box-sizing          : border-box;
