@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700|Material+Icons:400');
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,500|Material+Icons:400');
 
 
 .menu {
@@ -43,7 +43,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .ictwotoneclose0 .vector05 {
+.menu .ictwotoneclose0 .vector07 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 7px);
   height              : 14px;
@@ -65,7 +65,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .bhglogolightbgcolour11 .vector17 {
+.menu .bhglogolightbgcolour11 .vector111 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 5.60%;
   height              : 22.22%;
@@ -75,7 +75,7 @@ div {
   left                : 18.26%;
   transform           : rotate(0deg);
 }
-.menu .bhglogolightbgcolour11 .group32 {
+.menu .bhglogolightbgcolour11 .group34 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1px;
   height              : 34px;
@@ -196,7 +196,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .frame193 .simpleiconsnotion02 {
+.menu .frame193 .simpleiconsnotion03 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 12px;
   height              : 1px;
@@ -206,7 +206,7 @@ div {
   left                : 12px;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimdiscord12 {
+.menu .frame193 .uimdiscord13 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -216,7 +216,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimlinkedin22 {
+.menu .frame193 .uimlinkedin23 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -228,7 +228,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .frame193 .uimlinkedin22 .vector06 {
+.menu .frame193 .uimlinkedin23 .vector08 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 58.24%;
   height              : 2.08%;
@@ -238,7 +238,7 @@ div {
   left                : 26.40%;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimlinkedin22 .vector18 {
+.menu .frame193 .uimlinkedin23 .vector112 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.15%;
   height              : 2.08%;
@@ -248,7 +248,7 @@ div {
   left                : 48.57%;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimlinkedin22 .vector23 {
+.menu .frame193 .uimlinkedin23 .vector24 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 8.33%;
   height              : 83.33%;
@@ -258,7 +258,7 @@ div {
   left                : 8.07%;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimtwitter32 {
+.menu .frame193 .uimtwitter33 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -270,7 +270,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .frame193 .uimtwitter32 .vector07 {
+.menu .frame193 .uimtwitter33 .vector09 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 14.58%;
   height              : 70.83%;
@@ -280,7 +280,7 @@ div {
   left                : 8.33%;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uiminstagram42 {
+.menu .frame193 .uiminstagram43 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -290,9 +290,9 @@ div {
   left                : 120px;
   transform           : rotate(0deg);
 }
-.menu .logobcbhorizontallightbgbw4 {
+.menu .frame414 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 495px;
+  top                 : calc(50.00% + 211px);
   height              : 30px;
   width               : 48px;
   position            : absolute;
