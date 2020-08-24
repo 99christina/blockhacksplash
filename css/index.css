@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,500|Material+Icons:400');
+@import url('https://fonts.googleapis.com/css?family=Poppins:700,400,500,600|Material+Icons:400');
 
 
 .anima-overlay {
@@ -9,11 +9,11 @@
   width               : 100%;
   height              : 100%;
 }
-.bp1-a1028 {
+.bp1-index {
   width               : 100%;
   min-width           : 1032px;
   height              : 100vh;
-  min-height          : 4015px;
+  min-height          : 4044px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -108,7 +108,7 @@ div {
   opacity: 1;transform: scale(1);
     }
 }
-.bp1-a1028 .bp1-rectangle1700 {
+.bp1-index .bp1-rectangle1700 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 826px;
@@ -118,7 +118,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-blockhackglobalplanety221 {
+.bp1-index .bp1-blockhackglobalplanety221 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1127px;
   height              : 142px;
@@ -128,7 +128,7 @@ div {
   left                : calc(50.00% - 573px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-blockhackglobalspaceview1612 {
+.bp1-index .bp1-blockhackglobalspaceview1612 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -11px;
   height              : 1048px;
@@ -138,74 +138,7 @@ div {
   left                : -136px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-ellipse393 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 104px;
-  height              : 408px;
-  width               : 964px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 482px);
-  transform           : rotate(0deg);
-}
-.bp1-a1028 .bp1-bhgheading2linescolour4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 209px;
-  height              : 198px;
-  width               : 810px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 405px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-a1028 .bp1-bhgheading2linescolour4 {
-  opacity             : 0;
-  transform           : scale(1.1);
-}
-.bp1-a1028 .bp1-bhgheading2linescolour4 .bp1-heading2lines0 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 198px;
-  width               : 810px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp1-a1028 .bp1-blockhackglobalspacerocks0335 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 346px;
-  height              : 253px;
-  width               : 297px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 623px);
-  transform           : rotate(0deg);
-}
-.bp1-a1028 .bp1-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 454px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : 955px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 476px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 20.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  line-height         : 38.0px;
-}
-.bp1-a1028 .bp1-frame2517 {
+.bp1-index .bp1-frame2513 {
   background-color    : rgba(255,255,255,0.0);
   right               : -69px;
   top                 : -65px;
@@ -215,7 +148,7 @@ div {
   margin              : 0;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-joinusinsupportingthefuture8 {
+.bp1-index .bp1-joinusinsupportingthefuture4 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 1202px;
   height              : auto;
@@ -237,7 +170,7 @@ div {
   text-align          : center;
   line-height         : 48.0px;
 }
-.bp1-a1028 .bp1-blockhackglobalspacecraft209 {
+.bp1-index .bp1-blockhackglobalspacecraft205 {
   background-color    : rgba(255,255,255,0.0);
   right               : -183px;
   top                 : 566px;
@@ -247,39 +180,7 @@ div {
   margin              : 0;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-presentedby11 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 131px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 120px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(67, 67, 69, 0.62);
-  text-align          : center;
-  line-height         : 30.4px;
-}
-.bp1-a1028 .bp1-logobcbhorizontallightbgbw12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 116px;
-  height              : 58px;
-  width               : 93px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% + 28px);
-  transform           : rotate(0deg);
-}
-.bp1-a1028 .bp1-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatoreceivethelatestblockhackglobalupdates13 {
+.bp1-index .bp1-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatoreceivethelatestblockhackglobalupdates6 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 449px;
   height              : auto;
@@ -301,7 +202,7 @@ div {
   text-align          : center;
   line-height         : 38.0px;
 }
-.bp1-a1028 .bp1-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologycontactustofindouthowyoucangetinvolved14 {
+.bp1-index .bp1-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologycontactustofindouthowyoucangetinvolved7 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 1090px;
   height              : auto;
@@ -323,7 +224,7 @@ div {
   text-align          : center;
   line-height         : 38.0px;
 }
-.bp1-a1028 .bp1-bhglogolightbgcolour115 {
+.bp1-index .bp1-bhglogolightbgcolour18 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 15px;
   height              : 64px;
@@ -333,7 +234,7 @@ div {
   left                : 40px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame116 {
+.bp1-index .bp1-frame19 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 44px;
   height              : 24px;
@@ -345,7 +246,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
-.bp1-a1028 .bp1-frame116 .bp1-about0 {
+.bp1-index .bp1-frame19 .bp1-about0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -367,7 +268,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-frame116 .bp1-prizes1 {
+.bp1-index .bp1-frame19 .bp1-prizes1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -389,7 +290,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-frame116 .bp1-schedule2 {
+.bp1-index .bp1-frame19 .bp1-schedule2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -411,7 +312,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-frame116 .bp1-people3 {
+.bp1-index .bp1-frame19 .bp1-people3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -433,7 +334,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-frame116 .bp1-faq4 {
+.bp1-index .bp1-frame19 .bp1-faq4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -455,7 +356,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-frame116 .bp1-sponsors5 {
+.bp1-index .bp1-frame19 .bp1-sponsors5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -477,7 +378,7 @@ div {
   text-align          : left;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-blockhackglobal202018 {
+.bp1-index .bp1-blockhackglobal202011 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 605px;
   height              : 308px;
@@ -487,7 +388,7 @@ div {
   left                : calc(50.00% - 193px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-staytuned19 {
+.bp1-index .bp1-staytuned12 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 607px;
   height              : 67px;
@@ -497,7 +398,7 @@ div {
   left                : calc(50.00% + 46px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-blockhackglobalrocketfuel2220 {
+.bp1-index .bp1-blockhackglobalrocketfuel2213 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 369px;
@@ -507,9 +408,9 @@ div {
   left                : 1px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logobcbhorizontallightbgbw21 {
+.bp1-index .bp1-logobcbhorizontallightbgbw14 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 131px;
+  bottom              : 147px;
   height              : 58px;
   width               : 93px;
   position            : absolute;
@@ -517,15 +418,15 @@ div {
   left                : calc(50.00% - 46px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-bitcoinbaycorp202022 {
+.bp1-index .bp1-bitcoinbaycorp2020allrightsreserved15 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 51px;
-  bottom              : 20px;
+  bottom              : 10px;
   height              : auto;
   box-sizing          : border-box;
   width               : auto;
   position            : absolute;
   margin              : 0;
+  left                : calc(50.00% - 118px);
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(255, 255, 255, 0.0);
@@ -534,14 +435,14 @@ div {
   font-family         : "Poppins", Helvetica, Arial, serif;
   font-weight         : 400;
   font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : right;
-  line-height         : 26.6px;
+  font-size           : 11.0px;
+  color               : rgba(94, 152, 221, 1.0);
+  text-align          : center;
+  line-height         : 20.9px;
 }
-.bp1-a1028 .bp1-frame3723 {
+.bp1-index .bp1-frame3716 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 20px;
+  bottom              : 44px;
   height              : 27px;
   width               : 306px;
   position            : absolute;
@@ -550,7 +451,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-aboutbitcoinbay0 {
+.bp1-index .bp1-frame3716 .bp1-aboutbitcoinbay0 {
   background-color    : rgba(255,255,255,0.0);
   right               : 179px;
   bottom              : 0px;
@@ -573,13 +474,13 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-aboutbitcoinbay0 {
+.bp1-index .bp1-frame3716 .bp1-aboutbitcoinbay0 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-aboutbitcoinbay0:hover {
+.bp1-index .bp1-frame3716 .bp1-aboutbitcoinbay0:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3723 .bp1-apply1 {
+.bp1-index .bp1-frame3716 .bp1-apply1 {
   background-color    : rgba(255,255,255,0.0);
   right               : 107px;
   bottom              : 0px;
@@ -602,13 +503,13 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-apply1 {
+.bp1-index .bp1-frame3716 .bp1-apply1 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-apply1:hover {
+.bp1-index .bp1-frame3716 .bp1-apply1:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3723 .bp1-contactus2 {
+.bp1-index .bp1-frame3716 .bp1-contactus2 {
   background-color    : rgba(255,255,255,0.0);
   right               : 0px;
   bottom              : 0px;
@@ -631,13 +532,13 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-contactus2 {
+.bp1-index .bp1-frame3716 .bp1-contactus2 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3723 .bp1-contactus2:hover {
+.bp1-index .bp1-frame3716 .bp1-contactus2:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3524 {
+.bp1-index .bp1-frame3517 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 289px;
   height              : 24px;
@@ -649,9 +550,9 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-simpleiconsnotion0 {
+.bp1-index .bp1-frame3517 .bp1-simpleiconsnotion0 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -1381px;
+  top                 : -1410px;
   height              : 1px;
   width               : 1px;
   position            : absolute;
@@ -660,13 +561,13 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-simpleiconsnotion0 {
+.bp1-index .bp1-frame3517 .bp1-simpleiconsnotion0 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-simpleiconsnotion0:hover {
+.bp1-index .bp1-frame3517 .bp1-simpleiconsnotion0:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimdiscord1 {
+.bp1-index .bp1-frame3517 .bp1-uimdiscord1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -677,13 +578,13 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimdiscord1 {
+.bp1-index .bp1-frame3517 .bp1-uimdiscord1 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimdiscord1:hover {
+.bp1-index .bp1-frame3517 .bp1-uimdiscord1:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2 {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -696,13 +597,13 @@ div {
   opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2 {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2:hover {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2 .bp1-vector0 {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2 .bp1-vector0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 58.24%;
   height              : 2.08%;
@@ -712,7 +613,7 @@ div {
   left                : 26.40%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2 .bp1-vector1 {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2 .bp1-vector1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.15%;
   height              : 2.08%;
@@ -722,7 +623,7 @@ div {
   left                : 48.57%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimlinkedin2 .bp1-vector2 {
+.bp1-index .bp1-frame3517 .bp1-uimlinkedin2 .bp1-vector2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 8.33%;
   height              : 83.33%;
@@ -732,7 +633,7 @@ div {
   left                : 8.07%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimtwitter3 {
+.bp1-index .bp1-frame3517 .bp1-uimtwitter3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -745,13 +646,13 @@ div {
   opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimtwitter3 {
+.bp1-index .bp1-frame3517 .bp1-uimtwitter3 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimtwitter3:hover {
+.bp1-index .bp1-frame3517 .bp1-uimtwitter3:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uimtwitter3 .bp1-vector01 {
+.bp1-index .bp1-frame3517 .bp1-uimtwitter3 .bp1-vector01 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 14.58%;
   height              : 70.83%;
@@ -761,7 +662,7 @@ div {
   left                : 8.33%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uiminstagram4 {
+.bp1-index .bp1-frame3517 .bp1-uiminstagram4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -772,13 +673,13 @@ div {
   transform           : rotate(0deg);
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uiminstagram4 {
+.bp1-index .bp1-frame3517 .bp1-uiminstagram4 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-frame3524 .bp1-uiminstagram4:hover {
+.bp1-index .bp1-frame3517 .bp1-uiminstagram4:hover {
   filter              : grayscale(100%);
 }
-.bp1-a1028 .bp1-ellipse4525 {
+.bp1-index .bp1-ellipse4518 {
   background-color    : rgba(255,255,255,0.0);
   right               : -757px;
   bottom              : 191px;
@@ -788,7 +689,7 @@ div {
   margin              : 0;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-ellipse4626 {
+.bp1-index .bp1-ellipse4619 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 79px;
   height              : 1310px;
@@ -798,50 +699,7 @@ div {
   left                : -777px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-buttonprimaryactive27 {
-  background-color    : rgba(0, 155, 246, 1.0);
-  top                 : 562px;
-  height              : 48px;
-  width               : 223px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 111px);
-  border-radius       : 4px;
-  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  transition          : all 0.2s ease;
-}
-.bp1-a1028 .bp1-buttonprimaryactive27 {
-  pointer-events      : auto;
-}
-.bp1-a1028 .bp1-buttonprimaryactive27:hover {
-  transform           : translate(0, -5px);
-}
-.bp1-a1028 .bp1-buttonprimaryactive27 .bp1-applynow0 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : calc(50.00% - 12px);
-  height              : 24px;
-  box-sizing          : border-box;
-  width               : calc(100.00% - 58px);
-  position            : absolute;
-  margin              : 0;
-  left                : 30px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 18.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.54px;
-  line-height         : 24.0px;
-}
-.bp1-a1028 .bp1-buttonsecondaryactive28 {
+.bp1-index .bp1-buttonsecondaryactive20 {
   background-color    : rgba(255, 255, 255, 1.0);
   bottom              : 1007px;
   height              : 48px;
@@ -855,13 +713,13 @@ div {
   opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive28 {
+.bp1-index .bp1-buttonsecondaryactive20 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive28:hover {
+.bp1-index .bp1-buttonsecondaryactive20:hover {
   transform           : translate(0, -5px);
 }
-.bp1-a1028 .bp1-buttonsecondaryactive28 .bp1-contactusforpartnershipopportunities0 {
+.bp1-index .bp1-buttonsecondaryactive20 .bp1-contactusforpartnershipopportunities0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -884,7 +742,7 @@ div {
   letter-spacing      : 0.54px;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-buttonprimaryactive29 {
+.bp1-index .bp1-buttonprimaryactive21 {
   background-color    : rgba(0, 155, 246, 1.0);
   bottom              : 353px;
   height              : 48px;
@@ -898,13 +756,13 @@ div {
   opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-buttonprimaryactive29 {
+.bp1-index .bp1-buttonprimaryactive21 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-buttonprimaryactive29:hover {
+.bp1-index .bp1-buttonprimaryactive21:hover {
   transform           : translate(0, -5px);
 }
-.bp1-a1028 .bp1-buttonprimaryactive29 .bp1-applynow01 {
+.bp1-index .bp1-buttonprimaryactive21 .bp1-applynow0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -927,7 +785,7 @@ div {
   letter-spacing      : 0.54px;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-areyouahackerwithanentrepreneurialspirit30 {
+.bp1-index .bp1-areyouahackerwithanentrepreneurialspirit22 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 674px;
   height              : auto;
@@ -950,7 +808,7 @@ div {
   letter-spacing      : -0.96px;
   line-height         : 48.0px;
 }
-.bp1-a1028 .bp1-thisisthestopforyournextchallenge31 {
+.bp1-index .bp1-thisisthestopforyournextchallenge23 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 786px;
   height              : auto;
@@ -973,7 +831,7 @@ div {
   letter-spacing      : -0.72px;
   line-height         : 61.2px;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive32 {
+.bp1-index .bp1-buttonsecondaryactive24 {
   background-color    : rgba(255, 255, 255, 1.0);
   right               : 64px;
   top                 : 23px;
@@ -987,13 +845,13 @@ div {
   opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive32 {
+.bp1-index .bp1-buttonsecondaryactive24 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive32:hover {
+.bp1-index .bp1-buttonsecondaryactive24:hover {
   transform           : translate(0, -5px);
 }
-.bp1-a1028 .bp1-buttonsecondaryactive32 .bp1-aboutbitcoinbay01 {
+.bp1-index .bp1-buttonsecondaryactive24 .bp1-aboutbitcoinbay01 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -1016,58 +874,49 @@ div {
   letter-spacing      : 0.54px;
   line-height         : 24.0px;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive33 {
-  background-color    : rgba(255,255,255,0.0);
-  right               : 423px;
-  top                 : 26px;
-  height              : 48px;
-  width               : 128px;
-  position            : absolute;
-  margin              : 0;
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease;
-}
-.bp1-a1028 .bp1-buttonsecondaryactive33 {
-  pointer-events      : auto;
-}
-.bp1-a1028 .bp1-buttonsecondaryactive33:hover {
-  transform           : translate(0, -5px);
-}
-.bp1-a1028 .bp1-buttonsecondaryactive34 {
-  background-color    : rgba(255,255,255,0.0);
-  right               : 553px;
-  top                 : 26px;
-  height              : 48px;
-  width               : 124px;
-  position            : absolute;
-  margin              : 0;
-  transform           : rotate(0deg);
-  transition          : all 0.2s ease;
-}
-.bp1-a1028 .bp1-buttonsecondaryactive34 {
-  pointer-events      : auto;
-}
-.bp1-a1028 .bp1-buttonsecondaryactive34:hover {
-  transform           : translate(0, -5px);
-}
-.bp1-a1028 .bp1-buttonsecondaryactive35 {
+.bp1-index .bp1-buttonsecondaryactive25 {
   background-color    : rgba(255,255,255,0.0);
   right               : 306px;
-  top                 : 26px;
+  top                 : 23px;
   height              : 48px;
   width               : 124px;
   position            : absolute;
   margin              : 0;
+  border-radius       : 4px;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive35 {
+.bp1-index .bp1-buttonsecondaryactive25 {
   pointer-events      : auto;
 }
-.bp1-a1028 .bp1-buttonsecondaryactive35:hover {
+.bp1-index .bp1-buttonsecondaryactive25:hover {
   transform           : translate(0, -5px);
 }
-.bp1-a1028 .bp1-ourpartners36 {
+.bp1-index .bp1-buttonsecondaryactive25 .bp1-apply0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 12px);
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-ourpartners26 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1278px;
   height              : auto;
@@ -1089,50 +938,17 @@ div {
   text-align          : center;
   line-height         : 48.0px;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolouredge19637 {
+.bp1-index .bp1-logosponsorlightbgcoloursora27 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1371px;
-  height              : 309px;
-  width               : 862px;
+  top                 : 1603px;
+  height              : 139px;
+  width               : 382px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 435px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-a1028 .bp1-logosponsorlightbgcolouredge19637 .bp1-logosponsoredge1960 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29.67%;
-  height              : 40.11%;
-  width               : 89.37%;
-  position            : relative;
-  margin              : 0;
-  left                : 5.71%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-a1028 .bp1-logosponsorlightbgcolouredge19637 .bp1-logosponsoredge1960 .bp1-edge1960 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
+  left                : calc(50.00% - 195px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcoloursora38 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1613px;
-  height              : 215px;
-  width               : 596px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 302px);
-  transform           : rotate(0deg);
-}
-.bp1-a1028 .bp1-investorpartners39 {
+.bp1-index .bp1-investorpartners28 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1394px;
   height              : auto;
@@ -1154,9 +970,9 @@ div {
   text-align          : center;
   letter-spacing      : 2.25px;
 }
-.bp1-a1028 .bp1-educationpartners40 {
+.bp1-index .bp1-educationpartners29 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 2109px;
+  top                 : 1798px;
   height              : auto;
   box-sizing          : border-box;
   width               : auto;
@@ -1176,9 +992,9 @@ div {
   text-align          : center;
   letter-spacing      : 2.25px;
 }
-.bp1-a1028 .bp1-ecosystempartners41 {
+.bp1-index .bp1-ecosystempartners30 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1863px;
+  top                 : 2189px;
   height              : auto;
   box-sizing          : border-box;
   width               : auto;
@@ -1198,9 +1014,9 @@ div {
   text-align          : center;
   letter-spacing      : 2.25px;
 }
-.bp1-a1028 .bp1-mediapartners42 {
+.bp1-index .bp1-mediapartners31 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1591px;
+  top                 : 2460px;
   height              : auto;
   box-sizing          : border-box;
   width               : auto;
@@ -1220,19 +1036,19 @@ div {
   text-align          : center;
   letter-spacing      : 2.25px;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourictcshort43 {
+.bp1-index .bp1-logosponsorlightbgcolourictcshort32 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1949px;
+  top                 : 1861px;
   height              : 124px;
   width               : 349px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 350px);
+  left                : calc(50.00% - 178px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourictcshort43 .bp1-logosponsorictcshort0 {
+.bp1-index .bp1-logosponsorlightbgcolourictcshort32 .bp1-logosponsorictcshort0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10.99%;
   height              : 77.47%;
@@ -1243,7 +1059,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourictcshort43 .bp1-logosponsorictcshort0 .bp1-ictclogo20 {
+.bp1-index .bp1-logosponsorlightbgcolourictcshort32 .bp1-logosponsorictcshort0 .bp1-ictclogo20 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100%;
@@ -1253,19 +1069,19 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourgeorgebrown44 {
+.bp1-index .bp1-logosponsorlightbgcolourgeorgebrown33 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1949px;
+  top                 : 1861px;
   height              : 124px;
   width               : 346px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 567px);
+  left                : calc(50.00% - 534px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourgeorgebrown44 .bp1-gbassembly0 {
+.bp1-index .bp1-logosponsorlightbgcolourgeorgebrown33 .bp1-gbassembly0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 20px;
   height              : 86px;
@@ -1275,9 +1091,9 @@ div {
   left                : 107px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1395px;
+  top                 : 2523px;
   height              : 160px;
   width               : 446px;
   position            : absolute;
@@ -1287,7 +1103,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 4.40%;
   height              : 91.21%;
@@ -1299,7 +1115,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-vector11 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-vector11 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 30.05%;
   height              : 0.34%;
@@ -1309,7 +1125,7 @@ div {
   left                : 64.52%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-vector3 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-vector3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 52.50%;
   height              : 0.34%;
@@ -1319,7 +1135,7 @@ div {
   left                : 36.63%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-vector4 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-vector4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 52.48%;
   height              : 0.34%;
@@ -1329,7 +1145,7 @@ div {
   left                : 36.63%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-vector5 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-vector5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 52.50%;
   height              : 0.34%;
@@ -1339,7 +1155,7 @@ div {
   left                : 36.63%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-ctcirclelogodarkbckgrndcopy19 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-ctcirclelogodarkbckgrndcopy19 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 54px;
   height              : 1px;
@@ -1349,7 +1165,7 @@ div {
   left                : 70px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-cointelegraph1010 .bp1-group10 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-cointelegraph1010 .bp1-group10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 68px;
   height              : 1px;
@@ -1359,7 +1175,7 @@ div {
   left                : 46px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourcointelegraph45 .bp1-a061 {
+.bp1-index .bp1-logosponsorlightbgcolourcointelegraph34 .bp1-a061 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100%;
@@ -1369,9 +1185,9 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourblockchainwire46 {
+.bp1-index .bp1-logosponsorlightbgcolourblockchainwire35 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1395px;
+  top                 : 2523px;
   height              : 160px;
   width               : 446px;
   position            : absolute;
@@ -1381,7 +1197,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourblockchainwire46 .bp1-logosponsorblockchainwire0 {
+.bp1-index .bp1-logosponsorlightbgcolourblockchainwire35 .bp1-logosponsorblockchainwire0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3.30%;
   height              : 92.86%;
@@ -1392,7 +1208,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourblockchainwire46 .bp1-logosponsorblockchainwire0 .bp1-blockchainwire0 {
+.bp1-index .bp1-logosponsorlightbgcolourblockchainwire35 .bp1-logosponsorblockchainwire0 .bp1-blockchainwire0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100%;
@@ -1402,7 +1218,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourblockchainwire46 .bp1-logosponsorblockchainwire0 .bp1-maskgroup1 {
+.bp1-index .bp1-logosponsorlightbgcolourblockchainwire35 .bp1-logosponsorblockchainwire0 .bp1-maskgroup1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : -0px;
   height              : 149px;
@@ -1412,19 +1228,19 @@ div {
   left                : -0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourharmony47 {
+.bp1-index .bp1-logosponsorlightbgcolourharmony36 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1667px;
+  top                 : 2244px;
   height              : 160px;
   width               : 446px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 449px);
+  left                : calc(50.00% - 227px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourharmony47 .bp1-logosponsorharmony0 {
+.bp1-index .bp1-logosponsorlightbgcolourharmony36 .bp1-logosponsorharmony0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 3.85%;
   height              : 92.31%;
@@ -1435,7 +1251,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourharmony47 .bp1-logosponsorharmony0 .bp1-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg10 {
+.bp1-index .bp1-logosponsorlightbgcolourharmony36 .bp1-logosponsorharmony0 .bp1-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100%;
@@ -1445,17 +1261,17 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourblockchainlab48 {
+.bp1-index .bp1-logosponsorlightbgcolourblockchainlab37 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1667px;
-  height              : 160px;
-  width               : 447px;
+  top                 : 2009px;
+  height              : 124px;
+  width               : 347px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 5px);
+  left                : calc(50.00% + 8px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3249 {
+.bp1-index .bp1-frame3238 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 881px;
   height              : 289px;
@@ -1469,7 +1285,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-frame3249 .bp1-formyourteamandbuildyourprojectamonghackersallaroundtheworld1 {
+.bp1-index .bp1-frame3238 .bp1-formyourteamandbuildyourprojectamonghackersallaroundtheworld1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 102px;
   height              : auto;
@@ -1491,7 +1307,7 @@ div {
   text-align          : center;
   line-height         : 34.2px;
 }
-.bp1-a1028 .bp1-frame3249 .bp1-global2 {
+.bp1-index .bp1-frame3238 .bp1-global2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 51px;
   height              : 29px;
@@ -1501,7 +1317,7 @@ div {
   left                : calc(50.00% - 77px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame3350 {
+.bp1-index .bp1-frame3339 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 843px;
   height              : 372px;
@@ -1511,7 +1327,17 @@ div {
   left                : calc(50.00% - 190px);
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-frame4051 {
+.bp1-index .bp1-subtract240 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : 463px;
+  width               : 609px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 308px);
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-frame4041 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 880px;
   height              : 290px;
@@ -1524,7 +1350,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-frame4051 .bp1-group6630 {
+.bp1-index .bp1-frame4041 .bp1-group6630 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 18px;
   height              : 231px;
@@ -1534,19 +1360,19 @@ div {
   left                : 45px;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolouryorku52 {
+.bp1-index .bp1-logosponsorlightbgcolouryorku42 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1949px;
+  top                 : 1861px;
   height              : 124px;
   width               : 346px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% + 193px);
+  left                : calc(50.00% + 181px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolouryorku52 .bp1-yorkuniversity0 {
+.bp1-index .bp1-logosponsorlightbgcolouryorku42 .bp1-yorkuniversity0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 17.58%;
   height              : 64.29%;
@@ -1556,19 +1382,19 @@ div {
   left                : 12.80%;
   transform           : rotate(0deg);
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourben53 {
+.bp1-index .bp1-logosponsorlightbgcolourben43 {
   background-color    : rgba(255,255,255,0.0);
-  bottom              : 1949px;
+  top                 : 2009px;
   height              : 124px;
   width               : 341px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 108px);
+  left                : calc(50.00% - 366px);
   overflow            : hidden;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourben53 .bp1-logosponsorben0 {
+.bp1-index .bp1-logosponsorlightbgcolourben43 .bp1-logosponsorben0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 22.01%;
   height              : 55.97%;
@@ -1579,7 +1405,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp1-a1028 .bp1-logosponsorlightbgcolourben53 .bp1-logosponsorben0 .bp1-benfulllogo10 {
+.bp1-index .bp1-logosponsorlightbgcolourben43 .bp1-logosponsorben0 .bp1-benfulllogo10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 100%;
@@ -1587,6 +1413,288 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-logosponsorlightbgcolouredge19644 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1446px;
+  height              : 189px;
+  width               : 528px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 519px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-logosponsorlightbgcolouredge19644 .bp1-logosponsoredge1960 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29.67%;
+  height              : 40.11%;
+  width               : 89.37%;
+  position            : relative;
+  margin              : 0;
+  left                : 5.71%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-logosponsorlightbgcolouredge19644 .bp1-logosponsoredge1960 .bp1-edge1960 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-logosponsorlightbgcolourbitangels45 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1446px;
+  height              : 189px;
+  width               : 528px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 17px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-logosponsorlightbgcolourbitangels45 .bp1-fullorangelogo10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26.46%;
+  height              : 43.92%;
+  width               : 81.25%;
+  position            : absolute;
+  margin              : 0;
+  left                : 7.39%;
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-bhgheading2linescolour46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : 198px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 409px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-index .bp1-bhgheading2linescolour46 {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bhgheading2linescolour46 .bp1-ellipse470 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -115px;
+  height              : 408px;
+  width               : 964px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 482px);
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-bhgheading2linescolour46 .bp1-heading2lines1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 198px;
+  width               : 810px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-blockhackglobalspacerocks03447 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 366px;
+  height              : 253px;
+  width               : 297px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 627px);
+  transform           : rotate(0deg);
+}
+.bp1-index .bp1-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 470px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 955px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 470px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.bp1-index .bp1-presents49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 6px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(58, 41, 52, 0.45);
+  text-align          : center;
+  letter-spacing      : 2.16px;
+  line-height         : 17.1px;
+}
+.bp1-index .bp1-buttonprimaryactive50 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  top                 : 585px;
+  height              : 48px;
+  width               : 223px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 115px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-index .bp1-buttonprimaryactive50 {
+  pointer-events      : auto;
+}
+.bp1-index .bp1-buttonprimaryactive50:hover {
+  transform           : translate(0, -5px);
+}
+.bp1-index .bp1-buttonprimaryactive50 .bp1-applynow01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 58px);
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-buttonsecondaryactive51 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 423px;
+  top                 : 23px;
+  height              : 48px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-index .bp1-buttonsecondaryactive51 {
+  pointer-events      : auto;
+}
+.bp1-index .bp1-buttonsecondaryactive51:hover {
+  transform           : translate(0, -5px);
+}
+.bp1-index .bp1-buttonsecondaryactive51 .bp1-partners0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 12px);
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-buttonsecondaryactive52 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 553px;
+  top                 : 23px;
+  height              : 48px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp1-index .bp1-buttonsecondaryactive52 {
+  pointer-events      : auto;
+}
+.bp1-index .bp1-buttonsecondaryactive52:hover {
+  transform           : translate(0, -5px);
+}
+.bp1-index .bp1-buttonsecondaryactive52 .bp1-about01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 12px);
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.54px;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-a1clrdk2020153 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : 73px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 60px);
   transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
@@ -1710,11 +1818,11 @@ div {
   word-break          : break-all;
   word-break          : break-word;
 }
-.bp2-a1029 {
+.bp2-index1 {
   width               : 100%;
   min-width           : 320px;
   height              : 100vh;
-  min-height          : 3029px;
+  min-height          : 3212px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -1797,7 +1905,7 @@ div {
   opacity: 1;transform: scale(1);
     }
 }
-.bp2-a1029 .bp2-blockhackglobalspaceview1630 {
+.bp2-index1 .bp2-blockhackglobalspaceview1630 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 446px;
@@ -1807,85 +1915,28 @@ div {
   left                : -206px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-ellipse391 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 73px;
-  height              : 204px;
-  width               : 407px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 203px);
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-bhgheading2linesblack2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 139px;
-  height              : 72px;
-  width               : 295px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 146px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-bhgheading2linesblack2 {
-  opacity             : 0;
-  transform           : scale(1.1);
-}
-.bp2-a1029 .bp2-bhgheading2linesblack2 .bp2-heading2lines01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 295px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 241px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : 307px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 152px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  line-height         : 23.45px;
-}
-.bp2-a1029 .bp2-mbuttonprimaryactive4 {
+.bp2-index1 .bp2-mbuttonprimaryactive1 {
   background-color    : rgba(0, 155, 246, 1.0);
-  top                 : 338px;
+  top                 : 374px;
   height              : 40px;
-  width               : 227px;
+  width               : 143px;
   position            : absolute;
   margin              : 0;
-  left                : calc(50.00% - 113px);
+  left                : calc(50.00% - 71px);
   border-radius       : 4px;
   box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mbuttonprimaryactive4 .bp2-applynow02 {
+.bp2-index1 .bp2-mbuttonprimaryactive1 .bp2-applynow02 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
   box-sizing          : border-box;
-  width               : calc(100.00% - 134px);
+  width               : calc(100.00% - 10px);
   position            : absolute;
   margin              : 0;
-  left                : 68px;
+  left                : 6px;
   border-style        : solid;
   border-width        : 1px;
   border-color        : rgba(255, 255, 255, 0.0);
@@ -1900,62 +1951,9 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp2-a1029 .bp2-presentedby6 {
+.bp2-index1 .bp2-areyouahackerwithanentrepreneurialspirit2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 77px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 95px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(67, 67, 69, 0.62);
-  text-align          : center;
-  line-height         : 26.6px;
-}
-.bp2-a1029 .bp2-logobcbhorizontallightbgbw7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 70px;
-  height              : 42px;
-  width               : 66px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% + 29px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logobcbhorizontallightbgbw7 .bp2-vector12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 52.27%;
-  position            : absolute;
-  margin              : 0;
-  left                : -0.61%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logobcbhorizontallightbgbw7 .bp2-group3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 22px;
-  width               : 36px;
-  position            : absolute;
-  margin              : 0;
-  left                : 30px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-areyouahackerwithanentrepreneurialspirit8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 466px;
+  top                 : 507px;
   height              : auto;
   box-sizing          : border-box;
   width               : 274px;
@@ -1975,9 +1973,9 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp2-a1029 .bp2-ourpartners9 {
+.bp2-index1 .bp2-ourpartners3 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1322px;
+  top                 : 1363px;
   height              : auto;
   box-sizing          : border-box;
   width               : 274px;
@@ -1997,7 +1995,7 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp2-a1029 .bp2-rectangle16810 {
+.bp2-index1 .bp2-rectangle1684 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 379px;
@@ -2007,7 +2005,7 @@ div {
   left                : -33.13%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-joinusinsupportingthefuture11 {
+.bp2-index1 .bp2-joinusinsupportingthefuture5 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 1018px;
   height              : auto;
@@ -2029,9 +2027,9 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp2-a1029 .bp2-frame3412 {
+.bp2-index1 .bp2-frame346 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 586px;
+  top                 : 627px;
   height              : 161px;
   width               : 291px;
   position            : absolute;
@@ -2043,7 +2041,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame3412 .bp2-global0 {
+.bp2-index1 .bp2-frame346 .bp2-global0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 22px;
@@ -2053,7 +2051,7 @@ div {
   left                : calc(50.00% - 60px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame3412 .bp2-formyourteamandbuildyourprojectamonghackersallaroundtheworld2 {
+.bp2-index1 .bp2-frame346 .bp2-formyourteamandbuildyourprojectamonghackersallaroundtheworld2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 64px;
   height              : auto;
@@ -2075,9 +2073,9 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp2-a1029 .bp2-frame3613 {
+.bp2-index1 .bp2-frame367 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 779px;
+  top                 : 820px;
   height              : 161px;
   width               : 291px;
   position            : absolute;
@@ -2089,7 +2087,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame3613 .bp2-benefits0 {
+.bp2-index1 .bp2-frame367 .bp2-benefits0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 22px;
@@ -2099,7 +2097,7 @@ div {
   left                : calc(50.00% - 71px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame3613 .bp2-receiveguidanceandfeedbackonbothtechnologicalstackandinvestorcriteria2 {
+.bp2-index1 .bp2-frame367 .bp2-receiveguidanceandfeedbackonbothtechnologicalstackandinvestorcriteria2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 64px;
   height              : auto;
@@ -2121,7 +2119,7 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp2-a1029 .bp2-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologyfindouthowtogetinvolved14 {
+.bp2-index1 .bp2-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologyfindouthowtogetinvolved8 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 925px;
   height              : auto;
@@ -2143,7 +2141,7 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp2-a1029 .bp2-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatogetupdates15 {
+.bp2-index1 .bp2-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatogetupdates9 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 496px;
   height              : auto;
@@ -2165,7 +2163,7 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp2-a1029 .bp2-blockhackglobal202017 {
+.bp2-index1 .bp2-blockhackglobal2020111 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 598px;
   height              : 191px;
@@ -2175,7 +2173,7 @@ div {
   left                : calc(50.00% - 119px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-staytuned18 {
+.bp2-index1 .bp2-staytuned121 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 600px;
   height              : 42px;
@@ -2185,7 +2183,7 @@ div {
   left                : calc(50.00% + 28px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mbuttonprimaryactive19 {
+.bp2-index1 .bp2-mbuttonprimaryactive13 {
   background-color    : rgba(0, 155, 246, 1.0);
   bottom              : 431px;
   height              : 40px;
@@ -2198,7 +2196,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mbuttonprimaryactive19 .bp2-applynow03 {
+.bp2-index1 .bp2-mbuttonprimaryactive13 .bp2-applynow03 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -2221,7 +2219,17 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp2-a1029 .bp2-frame1920 {
+.bp2-index1 .bp2-subtract2114 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 292px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 110px);
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-frame1915 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 374px;
   height              : 24px;
@@ -2233,9 +2241,9 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame1920 .bp2-simpleiconsnotion01 {
+.bp2-index1 .bp2-frame1915 .bp2-simpleiconsnotion01 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -734px;
+  top                 : -917px;
   height              : 1px;
   width               : 1px;
   position            : absolute;
@@ -2243,7 +2251,7 @@ div {
   left                : 12px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimdiscord11 {
+.bp2-index1 .bp2-frame1915 .bp2-uimdiscord11 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -2253,7 +2261,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimlinkedin21 {
+.bp2-index1 .bp2-frame1915 .bp2-uimlinkedin21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -2265,7 +2273,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimlinkedin21 .bp2-vector02 {
+.bp2-index1 .bp2-frame1915 .bp2-uimlinkedin21 .bp2-vector02 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 58.24%;
   height              : 2.08%;
@@ -2275,7 +2283,7 @@ div {
   left                : 26.40%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimlinkedin21 .bp2-vector13 {
+.bp2-index1 .bp2-frame1915 .bp2-uimlinkedin21 .bp2-vector12 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.15%;
   height              : 2.08%;
@@ -2285,7 +2293,7 @@ div {
   left                : 48.57%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimlinkedin21 .bp2-vector21 {
+.bp2-index1 .bp2-frame1915 .bp2-uimlinkedin21 .bp2-vector21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 8.33%;
   height              : 83.33%;
@@ -2295,7 +2303,7 @@ div {
   left                : 8.07%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimtwitter31 {
+.bp2-index1 .bp2-frame1915 .bp2-uimtwitter31 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -2307,7 +2315,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uimtwitter31 .bp2-vector03 {
+.bp2-index1 .bp2-frame1915 .bp2-uimtwitter31 .bp2-vector03 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 14.58%;
   height              : 70.83%;
@@ -2317,7 +2325,7 @@ div {
   left                : 8.33%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-frame1920 .bp2-uiminstagram41 {
+.bp2-index1 .bp2-frame1915 .bp2-uiminstagram41 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -2327,7 +2335,7 @@ div {
   left                : 120px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-blockhackglobalrocketfuel2221 {
+.bp2-index1 .bp2-blockhackglobalrocketfuel2216 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 198px;
@@ -2337,7 +2345,7 @@ div {
   left                : calc(50.00% - 212px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-logobcbhorizontallightbgbw22 {
+.bp2-index1 .bp2-logobcbhorizontallightbgbw17 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 284px;
   height              : 30px;
@@ -2347,7 +2355,7 @@ div {
   left                : calc(50.00% - 23px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-bitcoinbaycorp2020allrightsreserved23 {
+.bp2-index1 .bp2-bitcoinbaycorp2020allrightsreserved18 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 27px;
   height              : auto;
@@ -2369,7 +2377,7 @@ div {
   text-align          : center;
   line-height         : 22.8px;
 }
-.bp2-a1029 .bp2-mbuttonsecondaryactive24 {
+.bp2-index1 .bp2-mbuttonsecondaryactive19 {
   background-color    : rgba(255, 255, 255, 1.0);
   bottom              : 853px;
   height              : 40px;
@@ -2382,7 +2390,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mbuttonsecondaryactive24 .bp2-contactus0 {
+.bp2-index1 .bp2-mbuttonsecondaryactive19 .bp2-contactus0 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -2405,9 +2413,9 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp2-a1029 .bp2-thisisthestopforyournextchallenge25 {
+.bp2-index1 .bp2-thisisthestopforyournextchallenge20 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 518px;
+  top                 : 559px;
   height              : auto;
   box-sizing          : border-box;
   width               : 220px;
@@ -2427,7 +2435,7 @@ div {
   text-align          : center;
   line-height         : 19.76px;
 }
-.bp2-a1029 .bp2-frame3726 {
+.bp2-index1 .bp2-frame3721 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 110px;
   height              : 117px;
@@ -2438,7 +2446,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame3726 .bp2-bitcoinbay0 {
+.bp2-index1 .bp2-frame3721 .bp2-bitcoinbay0 {
   background-color    : rgba(255,255,255,0.0);
   right               : 0px;
   bottom              : 90px;
@@ -2460,7 +2468,7 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp2-a1029 .bp2-frame3726 .bp2-apply11 {
+.bp2-index1 .bp2-frame3721 .bp2-apply11 {
   background-color    : rgba(255,255,255,0.0);
   right               : 19px;
   bottom              : 45px;
@@ -2482,7 +2490,7 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp2-a1029 .bp2-frame3726 .bp2-contactus21 {
+.bp2-index1 .bp2-frame3721 .bp2-contactus21 {
   background-color    : rgba(255,255,255,0.0);
   right               : 0px;
   bottom              : 0px;
@@ -2504,9 +2512,9 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp2-a1029 .bp2-buttonsecondaryactive27 {
+.bp2-index1 .bp2-buttonsecondaryactive22 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 398px;
+  top                 : 438px;
   height              : 40px;
   width               : 226px;
   position            : absolute;
@@ -2516,7 +2524,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-buttonsecondaryactive27 .bp2-aboutbitcoinbay02 {
+.bp2-index1 .bp2-buttonsecondaryactive22 .bp2-aboutbitcoinbay02 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -2539,7 +2547,7 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp2-a1029 .bp2-buttonsecondaryactive27 .bp2-launch1 {
+.bp2-index1 .bp2-buttonsecondaryactive22 .bp2-launch1 {
   background-color    : rgba(255,255,255,0.0);
   right               : 10px;
   top                 : 8px;
@@ -2562,7 +2570,7 @@ div {
   letter-spacing      : 0.54px;
   line-height         : 24.0px;
 }
-.bp2-a1029 .bp2-buttonsecondaryactive27 .bp2-rectangle1712 {
+.bp2-index1 .bp2-buttonsecondaryactive22 .bp2-rectangle1712 {
   background-color    : rgba(131, 209, 255, 1.0);
   top                 : 29px;
   height              : 2px;
@@ -2573,442 +2581,9 @@ div {
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
-.bp2-a1029 .bp2-investorpartners28 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1372px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 75px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp2-a1029 .bp2-educationpartners29 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1457px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 80px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourharmony30 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1224px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 135px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourharmony30 .bp2-logosponsorharmony01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3.85%;
-  height              : 92.31%;
-  width               : 60.24%;
-  position            : relative;
-  margin              : 0;
-  left                : 19.88%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourharmony30 .bp2-logosponsorharmony01 .bp2-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg101 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-ecosystempartners31 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1287px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 81px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1111px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : 50.00%;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 4.40%;
-  height              : 91.21%;
-  width               : 82.55%;
-  position            : absolute;
-  margin              : 0;
-  left                : 8.66%;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-vector14 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29.65%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 64.36%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-vector31 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.10%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-vector41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.08%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-vector51 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.10%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-ctcirclelogodarkbckgrndcopy191 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 1px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 21px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-cointelegraph10101 .bp2-group101 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
-  height              : 1px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 13px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourcointelegraph32 .bp2-a0611 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourblockchainwire33 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1111px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 135px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourblockchainwire33 .bp2-logosponsorblockchainwire01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : calc(50.00% - 22px);
-  height              : 45px;
-  width               : 80px;
-  position            : relative;
-  margin              : 0;
-  left                : calc(50.00% - 40px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourblockchainwire33 .bp2-logosponsorblockchainwire01 .bp2-blockchainwire01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourblockchainwire33 .bp2-logosponsorblockchainwire01 .bp2-maskgroup11 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -0px;
-  height              : 45px;
-  width               : 81px;
-  position            : absolute;
-  margin              : 0;
-  left                : -0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-mediapartners34 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1174px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 60px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolouredge19635 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1378px;
-  height              : 104px;
-  width               : 283px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 141px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolouredge19635 .bp2-logosponsoredge19601 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29.67%;
-  height              : 40.11%;
-  width               : 89.37%;
-  position            : relative;
-  margin              : 0;
-  left                : 5.71%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolouredge19635 .bp2-logosponsoredge19601 .bp2-edge19601 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcoloursora36 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1469px;
-  height              : 62px;
-  width               : 172px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 86px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcoloursora36 .bp2-group6610 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 46px;
-  width               : 154px;
-  position            : absolute;
-  margin              : 0;
-  left                : 9px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourblockchainlab37 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1225px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% + 1px);
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourgeorgebrown38 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1394px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 126px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourgeorgebrown38 .bp2-gbassembly01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 34px;
-  width               : 51px;
-  position            : absolute;
-  margin              : 0;
-  left                : 41px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourictcshort39 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1334px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 127px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourictcshort39 .bp2-logosponsorictcshort01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 10.99%;
-  height              : 77.47%;
-  width               : 25.98%;
-  position            : relative;
-  margin              : 0;
-  left                : 37.01%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourictcshort39 .bp2-logosponsorictcshort01 .bp2-ictclogo201 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourben40 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1394px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 6px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourben40 .bp2-logosponsorben01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 22.01%;
-  height              : 55.97%;
-  width               : 64.13%;
-  position            : relative;
-  margin              : 0;
-  left                : 17.94%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolourben40 .bp2-logosponsorben01 .bp2-benfulllogo101 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolouryorku41 {
-  background-color    : rgba(255,255,255,0.0);
-  bottom              : 1334px;
-  height              : 48px;
-  width               : 134px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 7px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp2-a1029 .bp2-logosponsorlightbgcolouryorku41 .bp2-yorkuniversity01 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 17.58%;
-  height              : 64.29%;
-  width               : 74.61%;
-  position            : absolute;
-  margin              : 0;
-  left                : 12.80%;
-  transform           : rotate(0deg);
-}
-.bp2-a1029 .bp2-frame4042 {
+.bp2-index1 .bp2-frame4023 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 972px;
+  top                 : 1013px;
   height              : 290px;
   width               : 291px;
   position            : absolute;
@@ -3019,7 +2594,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-frame4042 .bp2-group66301 {
+.bp2-index1 .bp2-frame4023 .bp2-group66301 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 18px;
   height              : 231px;
@@ -3029,7 +2604,7 @@ div {
   left                : 47px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav43 {
+.bp2-index1 .bp2-mobilenav24 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 56px;
@@ -3041,7 +2616,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mobilenav43 .bp2-mobilenav {
+.bp2-index1 .bp2-mobilenav24 .bp2-mobilenav {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 56px;
@@ -3051,7 +2626,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 {
+.bp2-index1 .bp2-mobilenav25 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 56px;
@@ -3063,7 +2638,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-bhglogolightbgcolour10 {
+.bp2-index1 .bp2-mobilenav25 .bp2-bhglogolightbgcolour10 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 10px;
   height              : 36px;
@@ -3075,7 +2650,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-bhglogolightbgcolour10 .bp2-vector15 {
+.bp2-index1 .bp2-mobilenav25 .bp2-bhglogolightbgcolour10 .bp2-vector13 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 5.60%;
   height              : 22.22%;
@@ -3085,7 +2660,7 @@ div {
   left                : 18.26%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-bhglogolightbgcolour10 .bp2-group31 {
+.bp2-index1 .bp2-mobilenav25 .bp2-bhglogolightbgcolour10 .bp2-group3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1px;
   height              : 34px;
@@ -3095,7 +2670,7 @@ div {
   left                : 1px;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-menu1 {
+.bp2-index1 .bp2-mobilenav25 .bp2-menu1 {
   background-color    : rgba(255,255,255,0.0);
   right               : 14px;
   top                 : 10px;
@@ -3107,7 +2682,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-menu1 .bp2-vector04 {
+.bp2-index1 .bp2-mobilenav25 .bp2-menu1 .bp2-vector04 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.31%;
   height              : 1.39%;
@@ -3117,7 +2692,7 @@ div {
   left                : 49.31%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-menu1 .bp2-vector16 {
+.bp2-index1 .bp2-mobilenav25 .bp2-menu1 .bp2-vector14 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 24.31%;
   height              : 1.39%;
@@ -3127,7 +2702,7 @@ div {
   left                : 49.31%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-menu1 .bp2-vector22 {
+.bp2-index1 .bp2-mobilenav25 .bp2-menu1 .bp2-vector22 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 74.31%;
   height              : 1.39%;
@@ -3137,7 +2712,7 @@ div {
   left                : 49.31%;
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-mobilenav44 .bp2-menu1 .bp2-vector32 {
+.bp2-index1 .bp2-mobilenav25 .bp2-menu1 .bp2-vector31 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 6px);
   height              : 12px;
@@ -3147,7 +2722,7 @@ div {
   left                : calc(50.00% - 8px);
   transform           : rotate(0deg);
 }
-.bp2-a1029 .bp2-forpartnershipopportunities45 {
+.bp2-index1 .bp2-forpartnershipopportunities26 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 825px;
   height              : auto;
@@ -3168,6 +2743,551 @@ div {
   color               : rgba(0, 155, 246, 1.0);
   text-align          : center;
   line-height         : 20.1px;
+}
+.bp2-index1 .bp2-ellipse4127 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 204px;
+  width               : 407px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 203px);
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-bhgheading2linesblack28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 171px;
+  height              : 71px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 145px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-bhgheading2linesblack28 {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.bp2-index1 .bp2-bhgheading2linesblack28 .bp2-heading2lines0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 72px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 278px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 152px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp2-index1 .bp2-presents31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 41px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 4.55px;
+  color               : rgba(58, 41, 52, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.46px;
+  line-height         : 8.65px;
+}
+.bp2-index1 .bp2-logobcbhorizontallightbgbw32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : 39px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 30px);
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-investorpartners33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1417px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 74px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp2-index1 .bp2-educationpartners34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1681px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 80px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourharmony35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1932px;
+  height              : 72px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 98px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourharmony35 .bp2-logosponsorharmony01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3.85%;
+  height              : 92.31%;
+  width               : 60.24%;
+  position            : relative;
+  margin              : 0;
+  left                : 19.88%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourharmony35 .bp2-logosponsorharmony01 .bp2-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-ecosystempartners36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1905px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 81px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2061px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 1px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4.40%;
+  height              : 91.21%;
+  width               : 82.55%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.66%;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-vector15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29.65%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 64.36%;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-vector32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.10%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-vector41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.08%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-vector51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.10%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-ctcirclelogodarkbckgrndcopy191 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-cointelegraph10101 .bp2-group101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourcointelegraph37 .bp2-a0611 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourblockchainwire38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2061px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 134px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourblockchainwire38 .bp2-logosponsorblockchainwire01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 22px);
+  height              : 45px;
+  width               : 80px;
+  position            : relative;
+  margin              : 0;
+  left                : calc(50.00% - 40px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourblockchainwire38 .bp2-logosponsorblockchainwire01 .bp2-blockchainwire01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourblockchainwire38 .bp2-logosponsorblockchainwire01 .bp2-maskgroup11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 45px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-mediapartners39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2028px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 60px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourblockchainlab40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1834px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 66px);
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourgeorgebrown41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1714px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 126px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourgeorgebrown41 .bp2-gbassembly01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 34px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourictcshort42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1774px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 127px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourictcshort42 .bp2-logosponsorictcshort01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10.99%;
+  height              : 77.47%;
+  width               : 25.98%;
+  position            : relative;
+  margin              : 0;
+  left                : 37.01%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourictcshort42 .bp2-logosponsorictcshort01 .bp2-ictclogo201 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourben431 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1714px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 6px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourben431 .bp2-logosponsorben01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22.01%;
+  height              : 55.97%;
+  width               : 64.13%;
+  position            : relative;
+  margin              : 0;
+  left                : 17.94%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourben431 .bp2-logosponsorben01 .bp2-benfulllogo101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolouryorku44 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1774px;
+  height              : 48px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 7px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolouryorku44 .bp2-yorkuniversity01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17.58%;
+  height              : 64.29%;
+  width               : 74.61%;
+  position            : absolute;
+  margin              : 0;
+  left                : 12.80%;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolouredge19645 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1423px;
+  height              : 104px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 141px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolouredge19645 .bp2-logosponsoredge19601 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29.67%;
+  height              : 40.11%;
+  width               : 89.37%;
+  position            : relative;
+  margin              : 0;
+  left                : 5.71%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolouredge19645 .bp2-logosponsoredge19601 .bp2-edge19601 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcoloursora46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1595px;
+  height              : 62px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 86px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcoloursora46 .bp2-group6610 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 46px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourbitangels47 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1505px;
+  height              : 104px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-index1 .bp2-logosponsorlightbgcolourbitangels47 .bp2-fullorangelogo101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26.45%;
+  height              : 43.92%;
+  width               : 81.25%;
+  position            : absolute;
+  margin              : 0;
+  left                : 7.39%;
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -3290,11 +3410,11 @@ div {
   word-break          : break-all;
   word-break          : break-word;
 }
-.bp3-a1030 {
+.bp3-index2 {
   width               : 100%;
   min-width           : 720px;
   height              : 100vh;
-  min-height          : 3000px;
+  min-height          : 3151px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -3377,7 +3497,7 @@ div {
   opacity: 1;transform: scale(1);
     }
 }
-.bp3-a1030 .bp3-blockhackglobalspaceview16301 {
+.bp3-index2 .bp3-blockhackglobalspaceview16301 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 446px;
@@ -3387,155 +3507,9 @@ div {
   left                : -206px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-ellipse3911 {
+.bp3-index2 .bp3-areyouahackerwithanentrepreneurialspirit1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 105px;
-  height              : 204px;
-  width               : 407px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 203px);
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-bhgheading2linesblack21 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 171px;
-  height              : 72px;
-  width               : 295px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 146px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-bhgheading2linesblack21 {
-  opacity             : 0;
-  transform           : scale(1.1);
-}
-.bp3-a1030 .bp3-bhgheading2linesblack21 .bp3-heading2lines02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 295px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon31 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 273px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : 307px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 152px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  line-height         : 23.45px;
-}
-.bp3-a1030 .bp3-mbuttonprimaryactive41 {
-  background-color    : rgba(0, 155, 246, 1.0);
-  top                 : 370px;
-  height              : 40px;
-  width               : 227px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 113px);
-  border-radius       : 4px;
-  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-mbuttonprimaryactive41 .bp3-applynow04 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : calc(50.00% - 12px);
-  height              : 24px;
-  box-sizing          : border-box;
-  width               : calc(100.00% - 134px);
-  position            : absolute;
-  margin              : 0;
-  left                : 68px;
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 16.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.48px;
-  line-height         : 24.0px;
-}
-.bp3-a1030 .bp3-presentedby61 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 109px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 95px);
-  border-style        : solid;
-  border-width        : 0px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 400;
-  font-style          : normal;
-  font-size           : 14.0px;
-  color               : rgba(67, 67, 69, 0.62);
-  text-align          : center;
-  line-height         : 26.6px;
-}
-.bp3-a1030 .bp3-logobcbhorizontallightbgbw71 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 102px;
-  height              : 42px;
-  width               : 66px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% + 29px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logobcbhorizontallightbgbw71 .bp3-vector17 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 52.27%;
-  position            : absolute;
-  margin              : 0;
-  left                : -0.61%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logobcbhorizontallightbgbw71 .bp3-group32 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 22px;
-  width               : 36px;
-  position            : absolute;
-  margin              : 0;
-  left                : 30px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-areyouahackerwithanentrepreneurialspirit81 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 450px;
+  top                 : 452px;
   height              : auto;
   box-sizing          : border-box;
   width               : 274px;
@@ -3555,9 +3529,9 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp3-a1030 .bp3-ourpartners91 {
+.bp3-index2 .bp3-ourpartners2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1305px;
+  top                 : 1307px;
   height              : auto;
   box-sizing          : border-box;
   width               : 274px;
@@ -3577,7 +3551,7 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp3-a1030 .bp3-rectangle168101 {
+.bp3-index2 .bp3-rectangle1683 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 379px;
@@ -3587,7 +3561,7 @@ div {
   left                : -33.18%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatogetupdates11 {
+.bp3-index2 .bp3-applytodaytoparticipateinabrandnewhackathonexperiencefollowusonsocialmediatogetupdates4 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 494px;
   height              : auto;
@@ -3609,7 +3583,7 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp3-a1030 .bp3-blockhackglobal202013 {
+.bp3-index2 .bp3-blockhackglobal20206 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 590px;
   height              : 191px;
@@ -3619,7 +3593,7 @@ div {
   left                : calc(50.00% - 119px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-staytuned14 {
+.bp3-index2 .bp3-staytuned7 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 592px;
   height              : 42px;
@@ -3629,7 +3603,7 @@ div {
   left                : calc(50.00% + 28px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-mbuttonprimaryactive15 {
+.bp3-index2 .bp3-mbuttonprimaryactive8 {
   background-color    : rgba(0, 155, 246, 1.0);
   bottom              : 426px;
   height              : 40px;
@@ -3642,7 +3616,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-mbuttonprimaryactive15 .bp3-applynow05 {
+.bp3-index2 .bp3-mbuttonprimaryactive8 .bp3-applynow04 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -3665,7 +3639,7 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp3-a1030 .bp3-frame1916 {
+.bp3-index2 .bp3-frame199 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 374px;
   height              : 24px;
@@ -3677,9 +3651,9 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame1916 .bp3-simpleiconsnotion02 {
+.bp3-index2 .bp3-frame199 .bp3-simpleiconsnotion02 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : -705px;
+  top                 : -856px;
   height              : 1px;
   width               : 1px;
   position            : absolute;
@@ -3687,7 +3661,7 @@ div {
   left                : -188px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimdiscord12 {
+.bp3-index2 .bp3-frame199 .bp3-uimdiscord12 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -3697,7 +3671,7 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimlinkedin22 {
+.bp3-index2 .bp3-frame199 .bp3-uimlinkedin22 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -3709,7 +3683,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimlinkedin22 .bp3-vector05 {
+.bp3-index2 .bp3-frame199 .bp3-uimlinkedin22 .bp3-vector05 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 58.24%;
   height              : 2.08%;
@@ -3719,7 +3693,7 @@ div {
   left                : 26.40%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimlinkedin22 .bp3-vector18 {
+.bp3-index2 .bp3-frame199 .bp3-uimlinkedin22 .bp3-vector16 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.15%;
   height              : 2.08%;
@@ -3729,7 +3703,7 @@ div {
   left                : 48.57%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimlinkedin22 .bp3-vector23 {
+.bp3-index2 .bp3-frame199 .bp3-uimlinkedin22 .bp3-vector23 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 8.33%;
   height              : 83.33%;
@@ -3739,7 +3713,7 @@ div {
   left                : 8.07%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimtwitter32 {
+.bp3-index2 .bp3-frame199 .bp3-uimtwitter32 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -3751,7 +3725,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uimtwitter32 .bp3-vector06 {
+.bp3-index2 .bp3-frame199 .bp3-uimtwitter32 .bp3-vector06 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 14.58%;
   height              : 70.83%;
@@ -3761,7 +3735,7 @@ div {
   left                : 8.33%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame1916 .bp3-uiminstagram42 {
+.bp3-index2 .bp3-frame199 .bp3-uiminstagram42 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 24px;
@@ -3771,7 +3745,7 @@ div {
   left                : 120px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-blockhackglobalrocketfuel2217 {
+.bp3-index2 .bp3-blockhackglobalrocketfuel2210 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 0px;
   height              : 198px;
@@ -3781,7 +3755,7 @@ div {
   left                : calc(50.00% - 212px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-logobcbhorizontallightbgbw18 {
+.bp3-index2 .bp3-logobcbhorizontallightbgbw11 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 284px;
   height              : 30px;
@@ -3791,7 +3765,7 @@ div {
   left                : calc(50.00% - 23px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-bitcoinbaycorp2020allrightsreserved19 {
+.bp3-index2 .bp3-bitcoinbaycorp2020allrightsreserved12 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 22px;
   height              : auto;
@@ -3813,9 +3787,9 @@ div {
   text-align          : center;
   line-height         : 22.8px;
 }
-.bp3-a1030 .bp3-thisisthestopforyournextchallenge20 {
+.bp3-index2 .bp3-thisisthestopforyournextchallenge13 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 502px;
+  top                 : 504px;
   height              : auto;
   box-sizing          : border-box;
   width               : 220px;
@@ -3835,7 +3809,7 @@ div {
   text-align          : center;
   line-height         : 19.76px;
 }
-.bp3-a1030 .bp3-frame3721 {
+.bp3-index2 .bp3-frame3714 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 110px;
   height              : 117px;
@@ -3846,7 +3820,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame3721 .bp3-bitcoinbay01 {
+.bp3-index2 .bp3-frame3714 .bp3-bitcoinbay01 {
   background-color    : rgba(255,255,255,0.0);
   right               : 0px;
   bottom              : 90px;
@@ -3868,7 +3842,7 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp3-a1030 .bp3-frame3721 .bp3-apply12 {
+.bp3-index2 .bp3-frame3714 .bp3-apply12 {
   background-color    : rgba(255,255,255,0.0);
   right               : 19px;
   bottom              : 45px;
@@ -3890,7 +3864,7 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp3-a1030 .bp3-frame3721 .bp3-contactus22 {
+.bp3-index2 .bp3-frame3714 .bp3-contactus22 {
   background-color    : rgba(255,255,255,0.0);
   right               : 0px;
   bottom              : 0px;
@@ -3912,7 +3886,7 @@ div {
   text-align          : center;
   line-height         : 26.6px;
 }
-.bp3-a1030 .bp3-bhglogolightbgcolour122 {
+.bp3-index2 .bp3-bhglogolightbgcolour115 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 18px;
   height              : 48px;
@@ -3924,7 +3898,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-bhglogolightbgcolour122 .bp3-vector19 {
+.bp3-index2 .bp3-bhglogolightbgcolour115 .bp3-vector17 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 5.25%;
   height              : 22.92%;
@@ -3934,7 +3908,7 @@ div {
   left                : 18.35%;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-bhglogolightbgcolour122 .bp3-group33 {
+.bp3-index2 .bp3-bhglogolightbgcolour115 .bp3-group31 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2px;
   height              : 45px;
@@ -3944,7 +3918,7 @@ div {
   left                : 2px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-mbuttonsecondaryactive23 {
+.bp3-index2 .bp3-mbuttonsecondaryactive16 {
   background-color    : rgba(255, 255, 255, 1.0);
   right               : 24px;
   top                 : 18px;
@@ -3957,7 +3931,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-mbuttonsecondaryactive23 .bp3-aboutbitcoinbay03 {
+.bp3-index2 .bp3-mbuttonsecondaryactive16 .bp3-aboutbitcoinbay03 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -3980,60 +3954,135 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive24 {
+.bp3-index2 .bp3-buttonsecondaryactive17 {
+  background-color    : rgba(255,255,255,0.0);
+  right               : 221px;
+  top                 : 14px;
+  height              : 48px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  transition          : all 0.2s ease;
+}
+.bp3-index2 .bp3-buttonsecondaryactive17 {
+  pointer-events      : auto;
+}
+.bp3-index2 .bp3-buttonsecondaryactive17:hover {
+  transform           : translate(0, -5px);
+}
+.bp3-index2 .bp3-buttonsecondaryactive17 .bp3-apply01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 12px);
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-index2 .bp3-buttonsecondaryactive18 {
   background-color    : rgba(255,255,255,0.0);
   right               : 324px;
-  top                 : 17px;
+  top                 : 14px;
   height              : 48px;
   width               : 98px;
   position            : absolute;
   margin              : 0;
+  border-radius       : 4px;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive24 {
+.bp3-index2 .bp3-buttonsecondaryactive18 {
   pointer-events      : auto;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive24:hover {
+.bp3-index2 .bp3-buttonsecondaryactive18:hover {
   transform           : translate(0, -5px);
 }
-.bp3-a1030 .bp3-buttonsecondaryactive25 {
+.bp3-index2 .bp3-buttonsecondaryactive18 .bp3-partners01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 8px);
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-index2 .bp3-buttonsecondaryactive19 {
   background-color    : rgba(255,255,255,0.0);
   right               : 424px;
-  top                 : 17px;
+  top                 : 14px;
   height              : 48px;
   width               : 108px;
   position            : absolute;
   margin              : 0;
+  border-radius       : 4px;
   transform           : rotate(0deg);
+  opacity             : 1.0;
   transition          : all 0.2s ease;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive25 {
+.bp3-index2 .bp3-buttonsecondaryactive19 {
   pointer-events      : auto;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive25:hover {
+.bp3-index2 .bp3-buttonsecondaryactive19:hover {
   transform           : translate(0, -5px);
 }
-.bp3-a1030 .bp3-buttonsecondaryactive26 {
+.bp3-index2 .bp3-buttonsecondaryactive19 .bp3-about02 {
   background-color    : rgba(255,255,255,0.0);
-  right               : 221px;
-  top                 : 17px;
-  height              : 48px;
-  width               : 108px;
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 8px);
   position            : absolute;
   margin              : 0;
+  left                : 5px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
   transform           : rotate(0deg);
-  transition          : all 0.2s ease;
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 151, 240, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
 }
-.bp3-a1030 .bp3-buttonsecondaryactive26 {
-  pointer-events      : auto;
-}
-.bp3-a1030 .bp3-buttonsecondaryactive26:hover {
-  transform           : translate(0, -5px);
-}
-.bp3-a1030 .bp3-frame3427 {
+.bp3-index2 .bp3-frame3420 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 579px;
+  top                 : 581px;
   height              : 161px;
   width               : 291px;
   position            : absolute;
@@ -4045,7 +4094,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame3427 .bp3-global01 {
+.bp3-index2 .bp3-frame3420 .bp3-global01 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 22px;
@@ -4055,7 +4104,7 @@ div {
   left                : calc(50.00% - 60px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame3427 .bp3-formyourteamandbuildyourprojectamonghackersallaroundtheworld21 {
+.bp3-index2 .bp3-frame3420 .bp3-formyourteamandbuildyourprojectamonghackersallaroundtheworld21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 64px;
   height              : auto;
@@ -4077,9 +4126,9 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp3-a1030 .bp3-frame3628 {
+.bp3-index2 .bp3-frame3621 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 772px;
+  top                 : 774px;
   height              : 161px;
   width               : 291px;
   position            : absolute;
@@ -4091,7 +4140,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame3628 .bp3-benefits01 {
+.bp3-index2 .bp3-frame3621 .bp3-benefits01 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 28px;
   height              : 22px;
@@ -4101,7 +4150,7 @@ div {
   left                : calc(50.00% - 71px);
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-frame3628 .bp3-receiveguidanceandfeedbackonbothtechnologicalstackandinvestorcriteria21 {
+.bp3-index2 .bp3-frame3621 .bp3-receiveguidanceandfeedbackonbothtechnologicalstackandinvestorcriteria21 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 64px;
   height              : auto;
@@ -4123,9 +4172,9 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp3-a1030 .bp3-frame4029 {
+.bp3-index2 .bp3-frame4022 {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 965px;
+  top                 : 967px;
   height              : 290px;
   width               : 291px;
   position            : absolute;
@@ -4136,7 +4185,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-frame4029 .bp3-group66302 {
+.bp3-index2 .bp3-frame4022 .bp3-group66302 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 18px;
   height              : 231px;
@@ -4146,440 +4195,7 @@ div {
   left                : 47px;
   transform           : rotate(0deg);
 }
-.bp3-a1030 .bp3-investorpartners30 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1359px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 74px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp3-a1030 .bp3-educationpartners31 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1541px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 80px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourharmony32 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1744px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 135px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourharmony32 .bp3-logosponsorharmony02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 3.85%;
-  height              : 92.31%;
-  width               : 60.24%;
-  position            : relative;
-  margin              : 0;
-  left                : 19.88%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourharmony32 .bp3-logosponsorharmony02 .bp3-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg102 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-ecosystempartners33 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1711px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 81px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1857px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : 50.00%;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 4.40%;
-  height              : 91.21%;
-  width               : 82.55%;
-  position            : absolute;
-  margin              : 0;
-  left                : 8.66%;
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-vector110 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29.65%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 64.36%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-vector33 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.10%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-vector42 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.08%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-vector52 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 52.10%;
-  height              : 1.14%;
-  width               : 0.46%;
-  position            : absolute;
-  margin              : 0;
-  left                : 36.47%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-ctcirclelogodarkbckgrndcopy192 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 16px;
-  height              : 1px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 21px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-cointelegraph10102 .bp3-group102 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
-  height              : 1px;
-  width               : 1px;
-  position            : absolute;
-  margin              : 0;
-  left                : 13px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourcointelegraph34 .bp3-a0612 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourblockchainwire35 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1857px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 135px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourblockchainwire35 .bp3-logosponsorblockchainwire02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : calc(50.00% - 22px);
-  height              : 45px;
-  width               : 80px;
-  position            : relative;
-  margin              : 0;
-  left                : calc(50.00% - 40px);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourblockchainwire35 .bp3-logosponsorblockchainwire02 .bp3-blockchainwire02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourblockchainwire35 .bp3-logosponsorblockchainwire02 .bp3-maskgroup12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -0px;
-  height              : 45px;
-  width               : 81px;
-  position            : absolute;
-  margin              : 0;
-  left                : -0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-mediapartners36 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1824px;
-  height              : auto;
-  box-sizing          : border-box;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 60px);
-  border-style        : solid;
-  border-width        : 1px;
-  border-color        : rgba(255, 255, 255, 0.0);
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-  font-family         : "Poppins", Helvetica, Arial, serif;
-  font-weight         : 700;
-  font-style          : normal;
-  font-size           : 12.0px;
-  color               : rgba(66, 120, 183, 1.0);
-  text-align          : center;
-  letter-spacing      : 1.5px;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolouredge196371 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1365px;
-  height              : 104px;
-  width               : 283px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 141px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolouredge196371 .bp3-logosponsoredge19602 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29.67%;
-  height              : 40.11%;
-  width               : 89.37%;
-  position            : relative;
-  margin              : 0;
-  left                : 5.71%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolouredge196371 .bp3-logosponsoredge19602 .bp3-edge19602 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcoloursora381 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1456px;
-  height              : 62px;
-  width               : 172px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 86px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcoloursora381 .bp3-group66101 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 8px;
-  height              : 46px;
-  width               : 154px;
-  position            : absolute;
-  margin              : 0;
-  left                : 9px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourblockchainlab39 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1744px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% + 1px);
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourgeorgebrown40 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1574px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 126px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourgeorgebrown40 .bp3-gbassembly02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 34px;
-  width               : 51px;
-  position            : absolute;
-  margin              : 0;
-  left                : 41px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourictcshort41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1634px;
-  height              : 48px;
-  width               : 133px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 127px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourictcshort41 .bp3-logosponsorictcshort02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 10.99%;
-  height              : 77.47%;
-  width               : 25.98%;
-  position            : relative;
-  margin              : 0;
-  left                : 37.01%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourictcshort41 .bp3-logosponsorictcshort02 .bp3-ictclogo202 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourben42 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1574px;
-  height              : 48px;
-  width               : 132px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 6px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourben42 .bp3-logosponsorben02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 22.01%;
-  height              : 55.97%;
-  width               : 64.13%;
-  position            : relative;
-  margin              : 0;
-  left                : 17.94%;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolourben42 .bp3-logosponsorben02 .bp3-benfulllogo102 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 100%;
-  width               : 100%;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolouryorku43 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1634px;
-  height              : 48px;
-  width               : 134px;
-  position            : absolute;
-  margin              : 0;
-  left                : calc(50.00% - 7px);
-  overflow            : hidden;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp3-a1030 .bp3-logosponsorlightbgcolouryorku43 .bp3-yorkuniversity02 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 17.58%;
-  height              : 64.29%;
-  width               : 74.61%;
-  position            : absolute;
-  margin              : 0;
-  left                : 12.80%;
-  transform           : rotate(0deg);
-}
-.bp3-a1030 .bp3-joinusinsupportingthefuture44 {
+.bp3-index2 .bp3-joinusinsupportingthefuture23 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 1008px;
   height              : auto;
@@ -4601,7 +4217,7 @@ div {
   text-align          : center;
   line-height         : 22.23px;
 }
-.bp3-a1030 .bp3-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologyfindouthowtogetinvolved45 {
+.bp3-index2 .bp3-areyouablockchaincompanythatwantstohavebusinessesbuiltonyourtechnologyfindouthowtogetinvolved24 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 915px;
   height              : auto;
@@ -4623,7 +4239,7 @@ div {
   text-align          : center;
   line-height         : 23.45px;
 }
-.bp3-a1030 .bp3-mbuttonsecondaryactive46 {
+.bp3-index2 .bp3-mbuttonsecondaryactive25 {
   background-color    : rgba(255, 255, 255, 1.0);
   bottom              : 843px;
   height              : 40px;
@@ -4636,7 +4252,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.bp3-a1030 .bp3-mbuttonsecondaryactive46 .bp3-contactus01 {
+.bp3-index2 .bp3-mbuttonsecondaryactive25 .bp3-contactus01 {
   background-color    : rgba(255,255,255,0.0);
   top                 : calc(50.00% - 12px);
   height              : 24px;
@@ -4659,7 +4275,17 @@ div {
   letter-spacing      : 0.48px;
   line-height         : 24.0px;
 }
-.bp3-a1030 .bp3-forpartnershipopportunities47 {
+.bp3-index2 .bp3-subtract2126 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 103px;
+  height              : 292px;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 110px);
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-forpartnershipopportunities27 {
   background-color    : rgba(255,255,255,0.0);
   bottom              : 815px;
   height              : auto;
@@ -4680,6 +4306,587 @@ div {
   color               : rgba(0, 155, 246, 1.0);
   text-align          : center;
   line-height         : 20.1px;
+}
+.bp3-index2 .bp3-mbuttonprimaryactive28 {
+  background-color    : rgba(0, 155, 246, 1.0);
+  top                 : 374px;
+  height              : 40px;
+  width               : 143px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 71px);
+  border-radius       : 4px;
+  box-shadow          : 0px 3px 8px rgba(0,159,255,0.33);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-mbuttonprimaryactive28 .bp3-applynow05 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 12px);
+  height              : 24px;
+  box-sizing          : border-box;
+  width               : calc(100.00% - 20px);
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.48px;
+  line-height         : 24.0px;
+}
+.bp3-index2 .bp3-ellipse4129 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 204px;
+  width               : 407px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 203px);
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-bhgheading2linesblack30 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 171px;
+  height              : 71px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 145px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-bhgheading2linesblack30 {
+  opacity             : 0;
+  transform           : scale(1.1);
+}
+.bp3-index2 .bp3-bhgheading2linesblack30 .bp3-heading2lines01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 72px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-a5weekhackathonthatmakesyourprojectsbusinessviablecomingsoon31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 278px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 307px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 152px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  line-height         : 23.45px;
+}
+.bp3-index2 .bp3-presents33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 32px);
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 4.55px;
+  color               : rgba(58, 41, 52, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.46px;
+  line-height         : 8.65px;
+}
+.bp3-index2 .bp3-logobcbhorizontallightbgbw34 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : 39px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 30px);
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-investorpartners35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1361px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 74px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp3-index2 .bp3-educationpartners36 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1625px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 80px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourharmony37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1876px;
+  height              : 72px;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 98px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourharmony37 .bp3-logosponsorharmony02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3.85%;
+  height              : 92.31%;
+  width               : 60.24%;
+  position            : relative;
+  margin              : 0;
+  left                : 19.88%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourharmony37 .bp3-logosponsorharmony02 .bp3-a2gsjgna1uruv8x2r8t7xdv5hgxyhwccu4rkmbb5pmezjysepcxykz7f675ortov5exusbf9drwhrhklknfwvn6z1vgvm7rxu3kthsczvsgh2ff9qqg102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-ecosystempartners38 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1849px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 81px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2005px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% + 1px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4.40%;
+  height              : 91.21%;
+  width               : 82.55%;
+  position            : absolute;
+  margin              : 0;
+  left                : 8.66%;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-vector18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29.65%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 64.36%;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-vector33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.10%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-vector42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.08%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-vector52 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52.10%;
+  height              : 1.14%;
+  width               : 0.46%;
+  position            : absolute;
+  margin              : 0;
+  left                : 36.47%;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-ctcirclelogodarkbckgrndcopy192 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-cointelegraph10102 .bp3-group102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourcointelegraph39 .bp3-a0612 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourblockchainwire40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2005px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 134px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourblockchainwire40 .bp3-logosponsorblockchainwire02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : calc(50.00% - 22px);
+  height              : 45px;
+  width               : 80px;
+  position            : relative;
+  margin              : 0;
+  left                : calc(50.00% - 40px);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourblockchainwire40 .bp3-logosponsorblockchainwire02 .bp3-blockchainwire02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourblockchainwire40 .bp3-logosponsorblockchainwire02 .bp3-maskgroup12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 45px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-mediapartners41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1972px;
+  height              : auto;
+  box-sizing          : border-box;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 60px);
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(255, 255, 255, 0.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Poppins", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(66, 120, 183, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.5px;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourblockchainlab42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1778px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 66px);
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourgeorgebrown43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1658px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 126px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourgeorgebrown43 .bp3-gbassembly02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 34px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourictcshort44 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1718px;
+  height              : 48px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 127px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourictcshort44 .bp3-logosponsorictcshort02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10.99%;
+  height              : 77.47%;
+  width               : 25.98%;
+  position            : relative;
+  margin              : 0;
+  left                : 37.01%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourictcshort44 .bp3-logosponsorictcshort02 .bp3-ictclogo202 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourben45 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1658px;
+  height              : 48px;
+  width               : 132px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 6px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourben45 .bp3-logosponsorben02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22.01%;
+  height              : 55.97%;
+  width               : 64.13%;
+  position            : relative;
+  margin              : 0;
+  left                : 17.94%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourben45 .bp3-logosponsorben02 .bp3-benfulllogo102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolouryorku46 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1718px;
+  height              : 48px;
+  width               : 134px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 7px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolouryorku46 .bp3-yorkuniversity02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17.58%;
+  height              : 64.29%;
+  width               : 74.61%;
+  position            : absolute;
+  margin              : 0;
+  left                : 12.80%;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolouredge19647 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1367px;
+  height              : 104px;
+  width               : 283px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 141px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolouredge19647 .bp3-logosponsoredge19602 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29.67%;
+  height              : 40.11%;
+  width               : 89.37%;
+  position            : relative;
+  margin              : 0;
+  left                : 5.71%;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolouredge19647 .bp3-logosponsoredge19602 .bp3-edge19602 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100%;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcoloursora48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1539px;
+  height              : 62px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 86px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcoloursora48 .bp3-group66101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 46px;
+  width               : 154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourbitangels49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1449px;
+  height              : 104px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : calc(50.00% - 146px);
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-index2 .bp3-logosponsorlightbgcolourbitangels49 .bp3-fullorangelogo102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26.45%;
+  height              : 43.92%;
+  width               : 81.25%;
+  position            : absolute;
+  margin              : 0;
+  left                : 7.39%;
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -4803,35 +5010,35 @@ div {
   word-break          : break-word;
 }
 @media screen and (max-width: 719px) {
-  .bp2-a1029 {
+  .bp2-index1 {
     display             : block;
   }
-  .bp3-a1030 {
+  .bp3-index2 {
     display             : none;
   }
-  .bp1-a1028 {
+  .bp1-index {
     display             : none;
   }
 }
 @media screen and (min-width: 720px) and (max-width: 1031px) {
-  .bp2-a1029 {
+  .bp2-index1 {
     display             : none;
   }
-  .bp3-a1030 {
+  .bp3-index2 {
     display             : block;
   }
-  .bp1-a1028 {
+  .bp1-index {
     display             : none;
   }
 }
 @media screen and (min-width: 1032px) {
-  .bp2-a1029 {
+  .bp2-index1 {
     display             : none;
   }
-  .bp3-a1030 {
+  .bp3-index2 {
     display             : none;
   }
-  .bp1-a1028 {
+  .bp1-index {
     display             : block;
   }
 }

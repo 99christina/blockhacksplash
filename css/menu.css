@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,500|Material+Icons:400');
+@import url('https://fonts.googleapis.com/css?family=Poppins:700,400,500,600|Material+Icons:400');
 
 
 .menu {
@@ -65,7 +65,7 @@ div {
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
-.menu .bhglogolightbgcolour11 .vector111 {
+.menu .bhglogolightbgcolour11 .vector19 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 5.60%;
   height              : 22.22%;
@@ -75,7 +75,7 @@ div {
   left                : 18.26%;
   transform           : rotate(0deg);
 }
-.menu .bhglogolightbgcolour11 .group34 {
+.menu .bhglogolightbgcolour11 .group32 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1px;
   height              : 34px;
@@ -238,7 +238,7 @@ div {
   left                : 26.40%;
   transform           : rotate(0deg);
 }
-.menu .frame193 .uimlinkedin23 .vector112 {
+.menu .frame193 .uimlinkedin23 .vector110 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49.15%;
   height              : 2.08%;
